@@ -9,7 +9,7 @@ using Vintagestory.API.Common;
     "minimalmapping",
     Description = "Restricts the use of the World Map and Mini Map.",
     Side = "Universal",
-    Version = "0.1.0",
+    Version = "2.0.0",
     NetworkVersion = "1.0.0",
     Website = "https://apachegaming.net",
     Contributors = ["Apache"],
