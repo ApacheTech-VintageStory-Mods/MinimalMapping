@@ -1,0 +1,21 @@
+{
+  "type": "Code",
+  "name": "Minimal Mapping",
+  "modId": "minimalmapping",
+  "side": "Universal",
+  "description": "Restricts the use of the World Map and Mini Map.",
+  "version": "0.1.0",
+  "website": "https://apachegaming.net",
+  "authors": [
+    "ApacheTech Solutions"
+  ],
+  "contributors": [
+    "Apache"
+  ],
+  "requiredOnClient": true,
+  "requiredOnServer": true,
+  "networkVersion": "1.0.0",
+  "dependencies": {
+    "game": "1.19.8"
+  }
+}
