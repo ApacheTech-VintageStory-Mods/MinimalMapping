@@ -30,7 +30,6 @@ namespace ApacheTech.VintageMods.MinimalMapping
                 ClientSettings.ShowCoordinateHud = false;   // Coordinates HUD disabled by default, and cannot be enabled.
                 api.World.Config.SetBool("allowMap", true); // Ensure map is enabled within the game world.
                 api.Settings.Bool["showMinimapHud"] = true; // Mini-map visible by default, but can still be manually hidden by player. 
-                api.Input.HotKeys.Remove("worldmapdialog"); // Disabled 'M' Key Binding. 
                 api.Input.HotKeys.Remove("coordinateshud"); // Disabled 'V' Key Binding. 
             };
         }

@@ -2,6 +2,7 @@
 using HarmonyLib;
 using Vintagestory.API.Common;
 using Vintagestory.GameContent;
+using static OpenTK.Graphics.OpenGL.GL;
 
 // ReSharper disable InconsistentNaming
 
