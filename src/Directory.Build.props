@@ -12,6 +12,8 @@
 		<GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
 		<Configurations>Debug;Release;Package</Configurations>
 		<TreatWarningsAsErrors>True</TreatWarningsAsErrors>
+		<RunPostBuildEvent>Always</RunPostBuildEvent>
+		<DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
 	</PropertyGroup>
 
 	<PropertyGroup Label="Environment Variables">

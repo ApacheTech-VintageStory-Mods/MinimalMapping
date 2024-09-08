@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "Omogućava opcije za ograničavanje korišćenja mape sveta.",
+
+  "Features.WorldMap.AllowKeyBinding": "Dozvoli vezivanje tastera: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "Izaberite da li igrači mogu koristiti podrazumevanu postavku tastera 'M' za mapu sveta.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "Obriši svetsku mapu pri prijavi: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Obrišite svetsku mapu igrača svaki put kad se prijavi.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "Radijus Magle Rata: {0} delova",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Kontrolišite udaljenost, u delovima, od igrača na kojoj će se otkriti svetska mapa.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "Magla Rata: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Igrači će moći da vide svetsku mapu samo unutar definisanog radijusa oko njih."
+}

@@ -1,0 +1,27 @@
+{
+  "Features.MiniMap.Description": "Ponúka možnosti na obmedzenie používania mini-mapky.",
+
+  "Features.MiniMap.AllowKeyBinding": "Povoliť priradenie kláves: {0}",
+  "Features.MiniMap.AllowKeyBinding.Description": "Vyberte, či môžu hráči používať predvolené priradenie klávesy 'V' pre HUD s koordinátami.",
+
+  "Features.MiniMap.AllowCoordinatesHud": "Povoliť HUD s koordinátami: {0}",
+  "Features.MiniMap.AllowCoordinatesHud.Description": "Umožňuje hráčovi zapnúť HUD s koordinátami v menu nastavení.",
+
+  "Features.MiniMap.AllowCoordinatesOnHover": "Povoliť koordináty pri prechode myšou: {0}",
+  "Features.MiniMap.AllowCoordinatesOnHover.Description": "Či sa majú zobraziť koordináty pri prechode myšou na mini-mapku.",
+
+  "Features.MiniMap.AllowMiniMapScrolling": "Povoliť posúvanie mini-mapky: {0}",
+  "Features.MiniMap.AllowMiniMapScrolling.Description": "Vyberte, či môže hráč kliknúť a ťahať mini-mapku.",
+
+  "Features.MiniMap.MinimumZoomLevel": "Minimálna úroveň priblíženia: {0}",
+  "Features.MiniMap.MinimumZoomLevel.Description": "Minimálna úroveň priblíženia mini-mapky.",
+
+  "Features.MiniMap.DefaultZoomLevel": "Predvolená úroveň priblíženia: {0}",
+  "Features.MiniMap.DefaultZoomLevel.Description": "Predvolená úroveň priblíženia mini-mapky.",
+
+  "Features.MiniMap.MaximumZoomLevel": "Maximálna úroveň priblíženia: {0}",
+  "Features.MiniMap.MaximumZoomLevel.Description": "Maximálna úroveň priblíženia mini-mapky.",
+
+  "Features.MiniMap.EnsureMiniMapActive": "Vynútiť mini-mapku: {0}",
+  "Features.MiniMap.EnsureMiniMapActive.Description": "Vynútiť dostupnosť mini-mapky bez ohľadu na nastavenia servera."
+}

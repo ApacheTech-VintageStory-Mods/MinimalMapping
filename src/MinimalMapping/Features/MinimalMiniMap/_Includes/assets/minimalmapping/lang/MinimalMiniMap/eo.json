@@ -1,0 +1,27 @@
+{
+  "Features.MiniMap.Description": "Proponas eblojn por limigi la uzon de la minimapo.",
+
+  "Features.MiniMap.AllowKeyBinding": "Permesi Klavkombinon: {0}",
+  "Features.MiniMap.AllowKeyBinding.Description": "Elektu ĉu ludantoj povas uzi la defaŭltan 'V' klavkombinon por la koordinitava HUD.",
+
+  "Features.MiniMap.AllowCoordinatesHud": "Permesi Koordinatan HUD: {0}",
+  "Features.MiniMap.AllowCoordinatesHud.Description": "Permesas al la ludanto ŝalti la koordinitavan HUD en ilia agorda menuo.",
+
+  "Features.MiniMap.AllowCoordinatesOnHover": "Permesi Koordinatojn ĉe Hovero: {0}",
+  "Features.MiniMap.AllowCoordinatesOnHover.Description": "Ĉu montri koordinatojn kiam la muso estas super la minimapo.",
+
+  "Features.MiniMap.AllowMiniMapScrolling": "Permesi Ruladon de la Minimapo: {0}",
+  "Features.MiniMap.AllowMiniMapScrolling.Description": "Elektu ĉu la ludanto povas klaki kaj tiri la minimapon.",
+
+  "Features.MiniMap.MinimumZoomLevel": "Minimume Zooma Nivelo: {0}",
+  "Features.MiniMap.MinimumZoomLevel.Description": "La minimume zoma nivelo de la minimapo.",
+
+  "Features.MiniMap.DefaultZoomLevel": "Defaŭlta Zooma Nivelo: {0}",
+  "Features.MiniMap.DefaultZoomLevel.Description": "La defaŭlta zoma nivelo de la minimapo.",
+
+  "Features.MiniMap.MaximumZoomLevel": "Maksimuma Zooma Nivelo: {0}",
+  "Features.MiniMap.MaximumZoomLevel.Description": "La maksimuma zoma nivelo de la minimapo.",
+
+  "Features.MiniMap.EnsureMiniMapActive": "Devigi Minimapon: {0}",
+  "Features.MiniMap.EnsureMiniMapActive.Description": "Devigi la minimapon esti disponebla, sendepende de la servilaj agordoj."
+}

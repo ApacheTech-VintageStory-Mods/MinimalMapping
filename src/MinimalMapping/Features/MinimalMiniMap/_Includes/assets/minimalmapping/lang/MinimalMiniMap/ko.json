@@ -1,0 +1,27 @@
+{
+  "Features.MiniMap.Description": "미니맵 사용 제한 옵션을 제공합니다.",
+
+  "Features.MiniMap.AllowKeyBinding": "키 바인딩 허용: {0}",
+  "Features.MiniMap.AllowKeyBinding.Description": "좌표 HUD의 기본 'V' 키 바인딩을 사용할 수 있는지 여부를 선택합니다.",
+
+  "Features.MiniMap.AllowCoordinatesHud": "좌표 HUD 허용: {0}",
+  "Features.MiniMap.AllowCoordinatesHud.Description": "설정 메뉴에서 좌표 HUD를 켤 수 있는 옵션을 제공합니다.",
+
+  "Features.MiniMap.AllowCoordinatesOnHover": "호버 시 좌표 표시: {0}",
+  "Features.MiniMap.AllowCoordinatesOnHover.Description": "미니맵 위에 마우스를 올릴 때 좌표를 표시할지 여부.",
+
+  "Features.MiniMap.AllowMiniMapScrolling": "미니맵 스크롤 허용: {0}",
+  "Features.MiniMap.AllowMiniMapScrolling.Description": "플레이어가 미니맵을 클릭하고 드래그할 수 있는지 여부를 선택합니다.",
+
+  "Features.MiniMap.MinimumZoomLevel": "최소 줌 레벨: {0}",
+  "Features.MiniMap.MinimumZoomLevel.Description": "미니맵의 최소 줌 레벨입니다.",
+
+  "Features.MiniMap.DefaultZoomLevel": "기본 줌 레벨: {0}",
+  "Features.MiniMap.DefaultZoomLevel.Description": "미니맵의 기본 줌 레벨입니다.",
+
+  "Features.MiniMap.MaximumZoomLevel": "최대 줌 레벨: {0}",
+  "Features.MiniMap.MaximumZoomLevel.Description": "미니맵의 최대 줌 레벨입니다.",
+
+  "Features.MiniMap.EnsureMiniMapActive": "미니맵 강제 활성화: {0}",
+  "Features.MiniMap.EnsureMiniMapActive.Description": "서버 설정에 관계없이 미니맵을 사용할 수 있도록 강제합니다."
+}

@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "세계 지도의 사용을 제한하는 옵션을 제공합니다.",
+
+  "Features.WorldMap.AllowKeyBinding": "키 바인딩 허용: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "플레이어가 세계 지도에 대한 기본 'M' 키 바인딩을 사용할 수 있는지 선택하십시오.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "로그인 시 월드 맵 초기화: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "플레이어가 로그인할 때마다 월드 맵을 초기화합니다.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "전쟁의 안개 반경: {0} 청크",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "플레이어로부터 떨어진 거리를 청크 단위로 제어하여 월드 맵을 표시합니다.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "전쟁의 안개: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "플레이어는 자신의 주변 일정 반경 내에서만 월드 맵을 볼 수 있습니다."
+}

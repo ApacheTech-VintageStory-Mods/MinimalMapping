@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "提供限制世界地图使用的选项。",
+
+  "Features.WorldMap.AllowKeyBinding": "允许按键绑定: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "选择玩家是否可以使用默认的'M'键绑定世界地图。",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "登录时清除世界地图: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "每次玩家登录时清除他们的世界地图。",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "战争迷雾半径: {0} 块",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "控制从玩家开始，世界地图将揭示的块数。",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "战争迷雾: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "玩家只能在他们周围的设定半径内看到世界地图。"
+}

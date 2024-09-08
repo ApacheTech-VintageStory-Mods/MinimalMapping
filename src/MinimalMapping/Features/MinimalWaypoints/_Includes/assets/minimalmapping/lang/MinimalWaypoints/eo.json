@@ -1,0 +1,9 @@
+{
+  "Features.Waypoints.Description": "Provizas opciojn por limigi la uzadon de vojpunktoj.",
+
+  "Features.Waypoints.AllowPinnedWaypoints": "Permesi Fiksitajn Vojpunktojn: {0}",
+  "Features.Waypoints.AllowPinnedWaypoints.Description": "Determinas ĉu ludantoj povas fiksi vojpunktojn.",
+
+  "Features.Waypoints.WipeWaypointsAtLogin": "Forviŝi orientilojn ĉe ensaluto: {0}",
+  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Forviŝu la orientilojn de la ludanto ĉiufoje kiam ili ensalutas."
+}

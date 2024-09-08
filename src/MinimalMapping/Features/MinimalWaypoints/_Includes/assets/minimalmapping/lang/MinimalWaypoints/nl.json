@@ -1,0 +1,9 @@
+{
+  "Features.Waypoints.Description": "Biedt opties voor het beperken van het gebruik van waypoints.",
+
+  "Features.Waypoints.AllowPinnedWaypoints": "Vaste Waypoints Toestaan: {0}",
+  "Features.Waypoints.AllowPinnedWaypoints.Description": "Bepaalt of spelers waypoints kunnen vastzetten.",
+
+  "Features.Waypoints.WipeWaypointsAtLogin": "Wegpunten wissen bij inloggen: {0}",
+  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Wis de wegpunten van de speler telkens wanneer ze inloggen."
+}

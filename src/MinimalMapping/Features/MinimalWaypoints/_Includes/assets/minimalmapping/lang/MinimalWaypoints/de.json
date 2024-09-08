@@ -1,0 +1,9 @@
+{
+  "Features.Waypoints.Description": "Bietet Optionen zur Einschränkung der Verwendung von Wegpunkten.",
+
+  "Features.Waypoints.AllowPinnedWaypoints": "Angeheftete Wegpunkte erlauben: {0}",
+  "Features.Waypoints.AllowPinnedWaypoints.Description": "Legt fest, ob Spieler Wegpunkte anheften dürfen.",
+
+  "Features.Waypoints.WipeWaypointsAtLogin": "Wegpunkte beim Einloggen löschen: {0}",
+  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Löschen Sie die Wegpunkte des Spielers bei jedem Einloggen."
+}

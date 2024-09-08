@@ -1,0 +1,9 @@
+{
+  "Features.Waypoints.Description": "Poskytuje možnosti pro omezení používání bodů zájmu.",
+
+  "Features.Waypoints.AllowPinnedWaypoints": "Povolit připnuté body zájmu: {0}",
+  "Features.Waypoints.AllowPinnedWaypoints.Description": "Určuje, zda mohou hráči připínat body zájmu.",
+
+  "Features.Waypoints.WipeWaypointsAtLogin": "Vymazat body cesty při přihlášení: {0}",
+  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Vymažte body cesty hráče při každém přihlášení."
+}

@@ -1,0 +1,27 @@
+{
+  "Features.MiniMap.Description": "ミニマップの使用を制限するオプションを提供します。",
+
+  "Features.MiniMap.AllowKeyBinding": "キー設定を許可する: {0}",
+  "Features.MiniMap.AllowKeyBinding.Description": "プレイヤーがデフォルトの「V」キー設定を使用できるかどうかを選択します。",
+
+  "Features.MiniMap.AllowCoordinatesHud": "座標HUDを許可する: {0}",
+  "Features.MiniMap.AllowCoordinatesHud.Description": "設定メニュー内で座標HUDをオンにするオプションをプレイヤーに提供します。",
+
+  "Features.MiniMap.AllowCoordinatesOnHover": "ホバー時に座標を表示: {0}",
+  "Features.MiniMap.AllowCoordinatesOnHover.Description": "ミニマップ上にホバーするときに座標を表示するかどうか。",
+
+  "Features.MiniMap.AllowMiniMapScrolling": "ミニマップスクロールを許可する: {0}",
+  "Features.MiniMap.AllowMiniMapScrolling.Description": "プレイヤーがミニマップをクリックしてドラッグできるかどうかを選択します。",
+
+  "Features.MiniMap.MinimumZoomLevel": "最小ズームレベル: {0}",
+  "Features.MiniMap.MinimumZoomLevel.Description": "ミニマップの最小ズームレベル。",
+
+  "Features.MiniMap.DefaultZoomLevel": "デフォルトズームレベル: {0}",
+  "Features.MiniMap.DefaultZoomLevel.Description": "ミニマップのデフォルトズームレベル。",
+
+  "Features.MiniMap.MaximumZoomLevel": "最大ズームレベル: {0}",
+  "Features.MiniMap.MaximumZoomLevel.Description": "ミニマップの最大ズームレベル。",
+
+  "Features.MiniMap.EnsureMiniMapActive": "ミニマップを強制的に有効にする: {0}",
+  "Features.MiniMap.EnsureMiniMapActive.Description": "サーバー設定に関係なく、ミニマップを利用可能にする。"
+}

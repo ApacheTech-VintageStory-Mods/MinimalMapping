@@ -1,0 +1,27 @@
+  {
+    "Features.MiniMap.Description": "Provides options for restricting the usage of the minimap.",
+
+    "Features.MiniMap.AllowKeyBinding": "Allow Key Binding: {0}",
+    "Features.MiniMap.AllowKeyBinding.Description": "Choose whether players can use the default 'V' key-binding for the co-ordinates HUD.",
+
+    "Features.MiniMap.AllowCoordinatesHud": "Allow Co-ordinates HUD: {0}",
+    "Features.MiniMap.AllowCoordinatesHud.Description": "Allows the option for the player to turn on the co-ordinates HUD within their settings menu.",
+
+    "Features.MiniMap.AllowCoordinatesOnHover": "Allow Co-ordinate On Hover: {0}",
+    "Features.MiniMap.AllowCoordinatesOnHover.Description": "Whether or not to show co-ordinates when hovering over the mini-map.",
+
+    "Features.MiniMap.AllowMiniMapScrolling": "Allow Mini-Map Scrolling: {0}",
+    "Features.MiniMap.AllowMiniMapScrolling.Description": "Choose whether the player can click and drag the mini-map.",
+
+    "Features.MiniMap.MinimumZoomLevel": "Min Zoom Level: {0}",
+    "Features.MiniMap.MinimumZoomLevel.Description": "The minimum zoom level of the mini-map.",
+
+    "Features.MiniMap.DefaultZoomLevel": "Default Zoom Level: {0}",
+    "Features.MiniMap.DefaultZoomLevel.Description": "The default zoom level of the mini-map.",
+
+    "Features.MiniMap.MaximumZoomLevel": "Max Zoom Level: {0}",
+    "Features.MiniMap.MaximumZoomLevel.Description": "The maximum zoom level of the mini-map.",
+
+    "Features.MiniMap.EnsureMiniMapActive": "Force Mini-Map: {0}",
+    "Features.MiniMap.EnsureMiniMapActive.Description": "Force the mini-map to be available, regardless of server settings."
+  }

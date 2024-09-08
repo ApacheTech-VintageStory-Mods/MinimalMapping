@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "Предоставляет параметры для ограничения использования карты мира.",
+
+  "Features.WorldMap.AllowKeyBinding": "Разрешить привязку клавиш: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "Выберите, могут ли игроки использовать стандартную привязку клавиши 'M' для карты мира.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "Очистить карту мира при входе: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Очищать карту мира игрока при каждом входе.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "Радиус Тумана Войны: {0} чанков",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Контролируйте расстояние, в чанках, от игрока, на которое будет открываться карта мира.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "Туман Войны: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Игроки смогут видеть карту мира только в пределах определённого радиуса вокруг них."
+}

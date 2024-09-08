@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "Provides options for restricting the usage of the world map.",
+
+  "Features.WorldMap.AllowKeyBinding": "Allow Key Binding: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "Choose whether players can use the default 'M' key-binding for the world map.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "Wipe World Map At Login: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Wipe the player's world map whenever they log in.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "Fog Of War Radius: {0} chunks",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Control the distance, in chunks, away from the player the world map will reveal.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "Fog Of War: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Players will only be able to see the world map within a set radius around them."
+}

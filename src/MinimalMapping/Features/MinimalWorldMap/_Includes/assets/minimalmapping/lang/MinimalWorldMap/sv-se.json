@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "Ger alternativ för att begränsa användningen av världskartan.",
+
+  "Features.WorldMap.AllowKeyBinding": "Tillåt tangentsbinding: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "Välj om spelare kan använda standardtangentbindningen 'M' för världskartan.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "Torka världskartan vid inloggning: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Torka spelarens världskarta varje gång de loggar in.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "Krigsdimma radie: {0} segment",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Styr avståndet, i segment, från spelaren där världskartan kommer att avslöjas.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "Krigsdimma: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Spelare kommer endast att kunna se världskartan inom en bestämd radie runt sig."
+}

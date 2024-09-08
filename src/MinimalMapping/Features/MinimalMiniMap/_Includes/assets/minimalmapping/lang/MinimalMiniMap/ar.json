@@ -1,0 +1,27 @@
+{
+  "Features.MiniMap.Description": "يوفر خيارات لتقييد استخدام الخريطة المصغرة.",
+
+  "Features.MiniMap.AllowKeyBinding": "السماح بتعيين المفاتيح: {0}",
+  "Features.MiniMap.AllowKeyBinding.Description": "اختر ما إذا كان يمكن للاعبين استخدام التعيين الافتراضي للمفتاح 'V' لشاشة عرض الإحداثيات.",
+
+  "Features.MiniMap.AllowCoordinatesHud": "السماح بعرض الإحداثيات: {0}",
+  "Features.MiniMap.AllowCoordinatesHud.Description": "يسمح للاعب بتشغيل شاشة عرض الإحداثيات ضمن قائمة الإعدادات.",
+
+  "Features.MiniMap.AllowCoordinatesOnHover": "السماح بعرض الإحداثيات عند التحويم: {0}",
+  "Features.MiniMap.AllowCoordinatesOnHover.Description": "ما إذا كان سيتم عرض الإحداثيات عند التحويم فوق الخريطة المصغرة.",
+
+  "Features.MiniMap.AllowMiniMapScrolling": "السماح بالتمرير في الخريطة المصغرة: {0}",
+  "Features.MiniMap.AllowMiniMapScrolling.Description": "اختر ما إذا كان يمكن للاعب النقر وسحب الخريطة المصغرة.",
+
+  "Features.MiniMap.MinimumZoomLevel": "أقل مستوى تكبير: {0}",
+  "Features.MiniMap.MinimumZoomLevel.Description": "أقل مستوى تكبير للخريطة المصغرة.",
+
+  "Features.MiniMap.DefaultZoomLevel": "مستوى التكبير الافتراضي: {0}",
+  "Features.MiniMap.DefaultZoomLevel.Description": "مستوى التكبير الافتراضي للخريطة المصغرة.",
+
+  "Features.MiniMap.MaximumZoomLevel": "أعلى مستوى تكبير: {0}",
+  "Features.MiniMap.MaximumZoomLevel.Description": "أعلى مستوى تكبير للخريطة المصغرة.",
+
+  "Features.MiniMap.EnsureMiniMapActive": "فرض الخريطة المصغرة: {0}",
+  "Features.MiniMap.EnsureMiniMapActive.Description": "فرض إتاحة الخريطة المصغرة، بغض النظر عن إعدادات الخادم."
+}

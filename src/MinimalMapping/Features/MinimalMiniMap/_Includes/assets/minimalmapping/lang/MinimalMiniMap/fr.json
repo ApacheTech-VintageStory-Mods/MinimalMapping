@@ -1,0 +1,27 @@
+{
+  "Features.MiniMap.Description": "Fournit des options pour restreindre l'utilisation de la mini-carte.",
+
+  "Features.MiniMap.AllowKeyBinding": "Autoriser le Raccourci Clavier: {0}",
+  "Features.MiniMap.AllowKeyBinding.Description": "Choisissez si les joueurs peuvent utiliser le raccourci clavier par défaut 'V' pour l'affichage des coordonnées.",
+
+  "Features.MiniMap.AllowCoordinatesHud": "Autoriser l'Affichage des Coordonnées: {0}",
+  "Features.MiniMap.AllowCoordinatesHud.Description": "Permet au joueur d'activer l'affichage des coordonnées dans le menu des paramètres.",
+
+  "Features.MiniMap.AllowCoordinatesOnHover": "Autoriser les Coordonnées au Survol: {0}",
+  "Features.MiniMap.AllowCoordinatesOnHover.Description": "Affiche ou non les coordonnées lors du survol de la mini-carte.",
+
+  "Features.MiniMap.AllowMiniMapScrolling": "Autoriser le Défilement de la Mini-Carte: {0}",
+  "Features.MiniMap.AllowMiniMapScrolling.Description": "Choisissez si le joueur peut cliquer et faire glisser la mini-carte.",
+
+  "Features.MiniMap.MinimumZoomLevel": "Niveau de Zoom Minimum: {0}",
+  "Features.MiniMap.MinimumZoomLevel.Description": "Le niveau de zoom minimum de la mini-carte.",
+
+  "Features.MiniMap.DefaultZoomLevel": "Niveau de Zoom Par Défaut: {0}",
+  "Features.MiniMap.DefaultZoomLevel.Description": "Le niveau de zoom par défaut de la mini-carte.",
+
+  "Features.MiniMap.MaximumZoomLevel": "Niveau de Zoom Maximum: {0}",
+  "Features.MiniMap.MaximumZoomLevel.Description": "Le niveau de zoom maximum de la mini-carte.",
+
+  "Features.MiniMap.EnsureMiniMapActive": "Forcer la Mini-Carte: {0}",
+  "Features.MiniMap.EnsureMiniMapActive.Description": "Force la disponibilité de la mini-carte, indépendamment des paramètres du serveur."
+}

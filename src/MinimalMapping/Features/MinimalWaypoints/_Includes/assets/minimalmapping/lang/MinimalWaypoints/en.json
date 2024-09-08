@@ -1,0 +1,9 @@
+{
+  "Features.Waypoints.Description": "Provides options for restricting the usage of waypoints.",
+
+  "Features.Waypoints.AllowPinnedWaypoints": "Allow Pinned Waypoints: {0}",
+  "Features.Waypoints.AllowPinnedWaypoints.Description": "Determines whether players can pin waypoints.",
+
+  "Features.Waypoints.WipeWaypointsAtLogin": "Wipe Waypoints At Login: {0}",
+  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Wipe the player's waypoints whenever they log in."
+}

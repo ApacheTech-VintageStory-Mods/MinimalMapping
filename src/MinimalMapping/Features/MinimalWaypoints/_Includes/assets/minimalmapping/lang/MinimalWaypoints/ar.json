@@ -1,0 +1,9 @@
+{
+  "Features.Waypoints.Description": "يوفر خيارات لتقييد استخدام نقاط الطريق.",
+
+  "Features.Waypoints.AllowPinnedWaypoints": "السماح بنقاط الطريق المثبتة: {0}",
+  "Features.Waypoints.AllowPinnedWaypoints.Description": "يحدد ما إذا كان يمكن للاعبين تثبيت نقاط الطريق.",
+
+  "Features.Waypoints.WipeWaypointsAtLogin": "مسح نقاط الطريق عند تسجيل الدخول: {0}",
+  "Features.Waypoints.WipeWaypointsAtLogin.Description": "امسح نقاط الطريق الخاصة باللاعب كلما قام بتسجيل الدخول."
+}

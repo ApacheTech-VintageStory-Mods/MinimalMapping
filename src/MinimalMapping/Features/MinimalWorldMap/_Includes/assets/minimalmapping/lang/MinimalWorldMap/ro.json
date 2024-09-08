@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "Oferă opțiuni pentru restricționarea utilizării hărții mondiale.",
+
+  "Features.WorldMap.AllowKeyBinding": "Permite legarea tastelor: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "Alegeți dacă jucătorii pot folosi alocarea implicită a tastei 'M' pentru harta mondială.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "Șterge harta mondială la autentificare: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Șterge harta mondială a jucătorului de fiecare dată când se conectează.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "Raza Ceții de Război: {0} fragmente",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Controlează distanța, în fragmente, la care se va dezvălui harta mondială de la jucător.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "Ceața de Război: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Jucătorii vor putea vedea harta mondială doar într-un anumit rază în jurul lor."
+}

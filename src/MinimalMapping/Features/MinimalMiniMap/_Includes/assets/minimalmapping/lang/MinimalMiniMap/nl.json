@@ -1,0 +1,27 @@
+{
+  "Features.MiniMap.Description": "Biedt opties voor het beperken van het gebruik van de minimap.",
+
+  "Features.MiniMap.AllowKeyBinding": "Toestaan Toetsbinding: {0}",
+  "Features.MiniMap.AllowKeyBinding.Description": "Kies of spelers de standaard 'V'-toetsbinding voor het coördinaten HUD kunnen gebruiken.",
+
+  "Features.MiniMap.AllowCoordinatesHud": "Coördinaten HUD Toestaan: {0}",
+  "Features.MiniMap.AllowCoordinatesHud.Description": "Biedt de speler de mogelijkheid om het coördinaten HUD in het instellingenmenu in te schakelen.",
+
+  "Features.MiniMap.AllowCoordinatesOnHover": "Coördinaten Bij Hover Toestaan: {0}",
+  "Features.MiniMap.AllowCoordinatesOnHover.Description": "Of coördinaten al dan niet moeten worden weergegeven wanneer er over de minimap wordt gehoverd.",
+
+  "Features.MiniMap.AllowMiniMapScrolling": "Minimap Scrolling Toestaan: {0}",
+  "Features.MiniMap.AllowMiniMapScrolling.Description": "Kies of de speler op de minimap kan klikken en slepen.",
+
+  "Features.MiniMap.MinimumZoomLevel": "Minimale Zoomniveau: {0}",
+  "Features.MiniMap.MinimumZoomLevel.Description": "Het minimale zoomniveau van de minimap.",
+
+  "Features.MiniMap.DefaultZoomLevel": "Standaard Zoomniveau: {0}",
+  "Features.MiniMap.DefaultZoomLevel.Description": "Het standaard zoomniveau van de minimap.",
+
+  "Features.MiniMap.MaximumZoomLevel": "Maximale Zoomniveau: {0}",
+  "Features.MiniMap.MaximumZoomLevel.Description": "Het maximale zoomniveau van de minimap.",
+
+  "Features.MiniMap.EnsureMiniMapActive": "Forceer Minimap: {0}",
+  "Features.MiniMap.EnsureMiniMapActive.Description": "Forceer de beschikbaarheid van de minimap, ongeacht de serverinstellingen."
+}

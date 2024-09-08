@@ -1,0 +1,27 @@
+{
+  "Features.MiniMap.Description": "Пропонує варіанти для обмеження використання міні-карти.",
+
+  "Features.MiniMap.AllowKeyBinding": "Дозволити прив'язку клавіш: {0}",
+  "Features.MiniMap.AllowKeyBinding.Description": "Виберіть, чи можуть гравці використовувати стандартну прив'язку клавіші 'V' для HUD з координатами.",
+
+  "Features.MiniMap.AllowCoordinatesHud": "Дозволити HUD з координатами: {0}",
+  "Features.MiniMap.AllowCoordinatesHud.Description": "Дозволяє гравцеві ввімкнути HUD з координатами в меню налаштувань.",
+
+  "Features.MiniMap.AllowCoordinatesOnHover": "Дозволити координати при наведенні: {0}",
+  "Features.MiniMap.AllowCoordinatesOnHover.Description": "Чи слід показувати координати при наведенні на міні-карту.",
+
+  "Features.MiniMap.AllowMiniMapScrolling": "Дозволити прокрутку міні-карти: {0}",
+  "Features.MiniMap.AllowMiniMapScrolling.Description": "Виберіть, чи може гравець натискати і перетягувати міні-карту.",
+
+  "Features.MiniMap.MinimumZoomLevel": "Мінімальний рівень масштабування: {0}",
+  "Features.MiniMap.MinimumZoomLevel.Description": "Мінімальний рівень масштабування міні-карти.",
+
+  "Features.MiniMap.DefaultZoomLevel": "Стандартний рівень масштабування: {0}",
+  "Features.MiniMap.DefaultZoomLevel.Description": "Стандартний рівень масштабування міні-карти.",
+
+  "Features.MiniMap.MaximumZoomLevel": "Максимальний рівень масштабування: {0}",
+  "Features.MiniMap.MaximumZoomLevel.Description": "Максимальний рівень масштабування міні-карти.",
+
+  "Features.MiniMap.EnsureMiniMapActive": "Примусова активація міні-карти: {0}",
+  "Features.MiniMap.EnsureMiniMapActive.Description": "Примусово зробити міні-карту доступною, незалежно від налаштувань сервера."
+}

@@ -1,0 +1,9 @@
+{
+  "Features.Waypoints.Description": "Pruža opcije za ograničavanje upotrebe putokaza.",
+
+  "Features.Waypoints.AllowPinnedWaypoints": "Dozvoliti Prikačene Putokaze: {0}",
+  "Features.Waypoints.AllowPinnedWaypoints.Description": "Određuje da li igrači mogu da prikače putokaze.",
+
+  "Features.Waypoints.WipeWaypointsAtLogin": "Obriši tačke putanje pri prijavi: {0}",
+  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Obrišite tačke putanje igrača svaki put kad se prijavi."
+}

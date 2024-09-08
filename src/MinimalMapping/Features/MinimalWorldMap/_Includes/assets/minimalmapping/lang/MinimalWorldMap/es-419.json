@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "Proporciona opciones para restringir el uso del mapa mundial.",
+
+  "Features.WorldMap.AllowKeyBinding": "Permitir Asignación de Teclas: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "Elija si los jugadores pueden usar la asignación de tecla predeterminada 'M' para el mapa mundial.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "Borrar mapa mundial al iniciar sesión: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Borrar el mapa mundial del jugador cuando inicie sesión.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "Radio de Niebla de Guerra: {0} fragmentos",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Controlar la distancia, en fragmentos, desde el jugador que revelará el mapa mundial.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "Niebla de Guerra: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Los jugadores solo podrán ver el mapa mundial dentro de un radio establecido a su alrededor."
+}

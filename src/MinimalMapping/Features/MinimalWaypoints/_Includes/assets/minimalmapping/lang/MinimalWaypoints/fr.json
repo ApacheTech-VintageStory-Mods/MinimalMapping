@@ -1,0 +1,9 @@
+{
+  "Features.Waypoints.Description": "Fournit des options pour restreindre l'utilisation des points de passage.",
+
+  "Features.Waypoints.AllowPinnedWaypoints": "Autoriser les points de passage épinglés : {0}",
+  "Features.Waypoints.AllowPinnedWaypoints.Description": "Détermine si les joueurs peuvent épingler des points de passage.",
+
+  "Features.Waypoints.WipeWaypointsAtLogin": "Effacer les points de passage à la connexion: {0}",
+  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Effacez les points de passage du joueur à chaque connexion."
+}

@@ -1,0 +1,9 @@
+{
+  "Features.Waypoints.Description": "Предоставляет варианты ограничения использования путевых точек.",
+
+  "Features.Waypoints.AllowPinnedWaypoints": "Разрешить закрепленные путевые точки: {0}",
+  "Features.Waypoints.AllowPinnedWaypoints.Description": "Определяет, могут ли игроки закреплять путевые точки.",
+
+  "Features.Waypoints.WipeWaypointsAtLogin": "Очистить путевые точки при входе: {0}",
+  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Очищать путевые точки игрока при каждом входе."
+}

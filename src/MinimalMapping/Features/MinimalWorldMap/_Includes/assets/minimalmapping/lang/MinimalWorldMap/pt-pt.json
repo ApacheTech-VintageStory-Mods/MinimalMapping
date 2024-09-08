@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "Fornece opções para restringir o uso do mapa mundial.",
+
+  "Features.WorldMap.AllowKeyBinding": "Permitir Vinculação de Teclas: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "Escolha se os jogadores podem usar o mapeamento de tecla padrão 'M' para o mapa mundial.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "Limpar Mapa Mundial ao Iniciar Sessão: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Limpe o mapa mundial do jogador sempre que ele iniciar sessão.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "Raio da Névoa de Guerra: {0} blocos",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Controle a distância, em blocos, a partir do jogador que o mapa mundial será revelado.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "Névoa de Guerra: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Os jogadores só poderão ver o mapa mundial dentro de um raio definido ao seu redor."
+}

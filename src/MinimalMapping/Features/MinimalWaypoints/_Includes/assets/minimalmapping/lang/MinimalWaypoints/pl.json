@@ -1,0 +1,9 @@
+{
+  "Features.Waypoints.Description": "Zapewnia opcje ograniczenia korzystania z punktów orientacyjnych.",
+
+  "Features.Waypoints.AllowPinnedWaypoints": "Zezwalaj na Przypięte Punkty Orientacyjne: {0}",
+  "Features.Waypoints.AllowPinnedWaypoints.Description": "Określa, czy gracze mogą przypinać punkty orientacyjne.",
+
+  "Features.Waypoints.WipeWaypointsAtLogin": "Wyczyść punkty orientacyjne przy logowaniu: {0}",
+  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Wyczyść punkty orientacyjne gracza przy każdym logowaniu."
+}

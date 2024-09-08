@@ -1,0 +1,9 @@
+{
+  "Features.Waypoints.Description": "Fornisce opzioni per limitare l'uso dei punti di riferimento.",
+
+  "Features.Waypoints.AllowPinnedWaypoints": "Consenti Punti di Riferimento Fissati: {0}",
+  "Features.Waypoints.AllowPinnedWaypoints.Description": "Determina se i giocatori possono fissare punti di riferimento.",
+
+  "Features.Waypoints.WipeWaypointsAtLogin": "Cancella i punti di passaggio al login: {0}",
+  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Cancella i punti di passaggio del giocatore quando effettua il login."
+}

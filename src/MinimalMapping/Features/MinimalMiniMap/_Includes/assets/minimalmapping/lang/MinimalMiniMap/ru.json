@@ -1,0 +1,27 @@
+{
+  "Features.MiniMap.Description": "Предоставляет опции для ограничения использования миникарты.",
+
+  "Features.MiniMap.AllowKeyBinding": "Разрешить привязку клавиш: {0}",
+  "Features.MiniMap.AllowKeyBinding.Description": "Выберите, могут ли игроки использовать привязку клавиши по умолчанию 'V' для отображения координат.",
+
+  "Features.MiniMap.AllowCoordinatesHud": "Разрешить отображение координат: {0}",
+  "Features.MiniMap.AllowCoordinatesHud.Description": "Позволяет игроку включить отображение координат в меню настроек.",
+
+  "Features.MiniMap.AllowCoordinatesOnHover": "Отображать координаты при наведении: {0}",
+  "Features.MiniMap.AllowCoordinatesOnHover.Description": "Будут ли отображаться координаты при наведении на миникарту.",
+
+  "Features.MiniMap.AllowMiniMapScrolling": "Разрешить прокрутку миникарты: {0}",
+  "Features.MiniMap.AllowMiniMapScrolling.Description": "Выберите, может ли игрок щелкнуть и перетащить миникарту.",
+
+  "Features.MiniMap.MinimumZoomLevel": "Минимальный уровень зума: {0}",
+  "Features.MiniMap.MinimumZoomLevel.Description": "Минимальный уровень зума миникарты.",
+
+  "Features.MiniMap.DefaultZoomLevel": "Уровень зума по умолчанию: {0}",
+  "Features.MiniMap.DefaultZoomLevel.Description": "Уровень зума по умолчанию для миникарты.",
+
+  "Features.MiniMap.MaximumZoomLevel": "Максимальный уровень зума: {0}",
+  "Features.MiniMap.MaximumZoomLevel.Description": "Максимальный уровень зума миникарты.",
+
+  "Features.MiniMap.EnsureMiniMapActive": "Принудительное включение миникарты: {0}",
+  "Features.MiniMap.EnsureMiniMapActive.Description": "Принудительное включение миникарты, независимо от настроек сервера."
+}

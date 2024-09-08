@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "Poskytuje možnosti pro omezení používání světové mapy.",
+
+  "Features.WorldMap.AllowKeyBinding": "Povolit přiřazení kláves: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "Vyberte, zda mohou hráči použít výchozí klávesovou zkratku 'M' pro světovou mapu.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "Vymazat mapu světa při přihlášení: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Vymažte mapu světa hráče při každém přihlášení.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "Poloměr mlhy války: {0} chunků",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Ovládejte vzdálenost, v chuncích, od hráče, kterou mapa světa odhalí.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "Mlha války: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Hráči budou moci vidět mapu světa pouze v určeném poloměru kolem sebe."
+}

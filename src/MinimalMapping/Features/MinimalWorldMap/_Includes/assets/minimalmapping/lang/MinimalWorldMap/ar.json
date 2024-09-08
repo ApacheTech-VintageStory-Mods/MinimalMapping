@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "يوفر خيارات لتقييد استخدام خريطة العالم.",
+
+  "Features.WorldMap.AllowKeyBinding": "السماح بتعيين المفاتيح: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "اختر ما إذا كان يمكن للاعبين استخدام التعيين الافتراضي للمفتاح 'M' لخريطة العالم.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "مسح خريطة العالم عند تسجيل الدخول: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "امسح خريطة العالم للاعب كلما قام بتسجيل الدخول.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "نصف قطر الضباب الحربي: {0} أجزاء",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "تحكم في المسافة، بالأجزاء، بعيدًا عن اللاعب التي ستكشف خريطة العالم.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "الضباب الحربي: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "سيتمكن اللاعبون من رؤية خريطة العالم فقط ضمن نصف قطر محدد حولهم."
+}

@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "Надає варіанти для обмеження використання карти світу.",
+
+  "Features.WorldMap.AllowKeyBinding": "Дозволити прив'язку клавіш: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "Виберіть, чи можуть гравці використовувати прив'язку клавіші 'M' за замовчуванням для карти світу.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "Стерти карту світу при вході: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Стирати карту світу гравця кожного разу, коли вони входять у гру.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "Радіус Туману Війни: {0} частин",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Контролюйте відстань, у частинах, на яку від гравця буде відкриватися карта світу.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "Туман Війни: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Гравці зможуть бачити карту світу лише в межах встановленого радіуса навколо них."
+}

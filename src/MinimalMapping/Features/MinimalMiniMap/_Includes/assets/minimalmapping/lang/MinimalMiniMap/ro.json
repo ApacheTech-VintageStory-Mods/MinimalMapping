@@ -1,0 +1,27 @@
+{
+  "Features.MiniMap.Description": "Oferă opțiuni pentru restricționarea utilizării mini-mapei.",
+
+  "Features.MiniMap.AllowKeyBinding": "Permite legarea tastelor: {0}",
+  "Features.MiniMap.AllowKeyBinding.Description": "Alege dacă jucătorii pot folosi legarea implicită a tastei 'V' pentru HUD-ul cu coordonate.",
+
+  "Features.MiniMap.AllowCoordinatesHud": "Permite HUD-ul cu coordonate: {0}",
+  "Features.MiniMap.AllowCoordinatesHud.Description": "Permite jucătorului să activeze HUD-ul cu coordonate în meniul de setări.",
+
+  "Features.MiniMap.AllowCoordinatesOnHover": "Permite coordonate la trecerea mouse-ului: {0}",
+  "Features.MiniMap.AllowCoordinatesOnHover.Description": "Dacă să fie afișate coordonatele atunci când mouse-ul este deasupra mini-mapei.",
+
+  "Features.MiniMap.AllowMiniMapScrolling": "Permite derularea mini-mapei: {0}",
+  "Features.MiniMap.AllowMiniMapScrolling.Description": "Alege dacă jucătorul poate face clic și trage mini-mapa.",
+
+  "Features.MiniMap.MinimumZoomLevel": "Nivel minim de zoom: {0}",
+  "Features.MiniMap.MinimumZoomLevel.Description": "Nivelul minim de zoom al mini-mapei.",
+
+  "Features.MiniMap.DefaultZoomLevel": "Nivel de zoom implicit: {0}",
+  "Features.MiniMap.DefaultZoomLevel.Description": "Nivelul implicit de zoom al mini-mapei.",
+
+  "Features.MiniMap.MaximumZoomLevel": "Nivel maxim de zoom: {0}",
+  "Features.MiniMap.MaximumZoomLevel.Description": "Nivelul maxim de zoom al mini-mapei.",
+
+  "Features.MiniMap.EnsureMiniMapActive": "Forțează mini-mapa: {0}",
+  "Features.MiniMap.EnsureMiniMapActive.Description": "Forțează disponibilitatea mini-mapei, indiferent de setările serverului."
+}

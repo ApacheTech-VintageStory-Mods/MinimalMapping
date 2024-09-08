@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "Biedt opties om het gebruik van de wereldkaart te beperken.",
+
+  "Features.WorldMap.AllowKeyBinding": "Toestaan Toetsbinding: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "Kies of spelers de standaard 'M'-toetsbinding voor de wereldkaart kunnen gebruiken.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "Wereldkaart wissen bij inloggen: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Wis de wereldkaart van de speler telkens wanneer ze inloggen.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "Straal van Oorlogsnevel: {0} stukken",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Beheer de afstand, in stukken, vanaf de speler waarop de wereldkaart onthuld wordt.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "Oorlogsnevel: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Spelers kunnen de wereldkaart alleen binnen een bepaalde straal om hen heen zien."
+}

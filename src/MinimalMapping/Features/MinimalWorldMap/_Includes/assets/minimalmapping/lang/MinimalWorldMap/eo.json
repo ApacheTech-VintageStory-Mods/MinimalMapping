@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "Provizas opciojn por limigi la uzadon de la monda mapo.",
+
+  "Features.WorldMap.AllowKeyBinding": "Permesi Klavkombinon: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "Elektu ĉu ludantoj povas uzi la defaŭltan klavligon 'M' por la monda mapo.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "Forviŝi mondan mapon ĉe ensaluto: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Forviŝu la mondmapon de la ludanto kiam ili ensalutas.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "Nebulo de Milito Radiuso: {0} segmentoj",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Kontrolu la distancon, en segmentoj, for de la ludanto, kiun la mondmapo malkaŝos.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "Nebulo de Milito: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Ludantoj povos vidi la mondmapon nur ene de difinita radiuso ĉirkaŭ ili."
+}

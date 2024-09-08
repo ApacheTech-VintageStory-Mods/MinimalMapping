@@ -1,0 +1,9 @@
+{
+  "Features.Waypoints.Description": "Oferă opțiuni pentru restricționarea utilizării punctelor de orientare.",
+
+  "Features.Waypoints.AllowPinnedWaypoints": "Permite Puncte de Orientare Fixate: {0}",
+  "Features.Waypoints.AllowPinnedWaypoints.Description": "Determină dacă jucătorii pot fixa puncte de orientare.",
+
+  "Features.Waypoints.WipeWaypointsAtLogin": "Șterge punctele de referință la autentificare: {0}",
+  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Șterge punctele de referință ale jucătorului de fiecare dată când se conectează."
+}

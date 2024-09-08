@@ -1,0 +1,15 @@
+{
+  "Features.WorldMap.Description": "Fornisce opzioni per limitare l'uso della mappa del mondo.",
+
+  "Features.WorldMap.AllowKeyBinding": "Permetti Assegnazione dei Tasti: {0}",
+  "Features.WorldMap.AllowKeyBinding.Description": "Scegli se i giocatori possono utilizzare l'assegnazione predefinita del tasto 'M' per la mappa del mondo.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "Cancella la mappa del mondo al login: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Cancella la mappa del mondo del giocatore quando effettua il login.",
+
+  "Features.WorldMap.WorldMapFogOfWarRadius": "Raggio della Nebbia di Guerra: {0} blocchi",
+  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Controlla la distanza, in blocchi, dal giocatore che la mappa del mondo rivelerà.",
+
+  "Features.WorldMap.WorldMapFogOfWarEnabled": "Nebbia di Guerra: {0}",
+  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "I giocatori potranno vedere la mappa del mondo solo entro un raggio stabilito attorno a loro."
+}
