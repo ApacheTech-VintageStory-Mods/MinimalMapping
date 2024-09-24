@@ -7,7 +7,7 @@
   {
     "name": "area:documentation",
     "color": "F23BE6",
-    "description": "Improvements or additions to documentation."
+    "description": "Improvements or additions to documentation, or translations."
   },
   {
     "name": "area:gantry",
@@ -18,11 +18,6 @@
     "name": "area:harmony",
     "color": "F23BE6",
     "description": "This issue or feature involves Harmony patches."
-  },
-  {
-    "name": "area:localisation",
-    "color": "F23BE6",
-    "description": "This issue or feature involves the translation engine."
   },
   {
     "name": "closed:done",
