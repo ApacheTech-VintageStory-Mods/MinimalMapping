@@ -1,59 +1,80 @@
 ﻿using ApacheTech.Common.BrighterSlim;
-using ApacheTech.Common.FunctionalCSharp.Extensions;
+using ApacheTech.Common.Extensions.Harmony;
 using Gantry.Core;
 using Gantry.Core.Annotation;
 using Gantry.Core.Brighter.Abstractions;
 using Gantry.Core.Brighter.Filters;
+using System.Collections.Generic;
 using System.Linq;
-using static OpenTK.Graphics.OpenGL.GL;
+using Vintagestory.API.MathTools;
 
 namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalWorldMap.Commands;
 
-public class PurgeWorldMapCommand : CommandBase, IPlayerSpecificCommand
+[ClientSide]
+public class PurgeWorldMapCommand : CommandBase
 {
-    public IPlayer Player { get; set; }
-}
-
-[ServerSide]
-public class PurgeWorldMapHandler : RequestHandler<PurgeWorldMapCommand>
-{
-    private readonly WorldMapManager _worldMapManager;
-
-    public PurgeWorldMapHandler(WorldMapManager worldMapManager)
+    [ClientSide]
+    public class PurgeWorldMapHandler(WorldMapManager worldMapManager) : RequestHandler<PurgeWorldMapCommand>
     {
-        _worldMapManager = worldMapManager;
-    }
+        private readonly WorldMapManager _worldMapManager = worldMapManager;
 
-    [Side(EnumAppSide.Server)]
-    public override PurgeWorldMapCommand Handle(PurgeWorldMapCommand command)
-    {
-        if (!TryPurgeMapDatabase())
+        [Side(EnumAppSide.Client)]
+        public override PurgeWorldMapCommand Handle(PurgeWorldMapCommand command)
         {
+            var chunkLayer = _worldMapManager.MapLayers.OfType<ChunkMapLayer>().FirstOrDefault();
+            if (chunkLayer is null)
+            {
+                command.Success = false;
+                command.ErrorMessages.Add("Could not get terrain layer from world map manager.");
+                return base.Handle(command);
+            }
+
+            if (!TryPurgeMapDatabase(command, chunkLayer))
+            {
+                command.Success = false;
+                command.ErrorMessages.Add("Could not purge local map database.");
+                return base.Handle(command);
+            }
+
+            if (!TryPugeWorldMap(chunkLayer))
+            {
+                command.Success = false;
+                command.ErrorMessages.Add("Could not purge world map textures.");
+                return base.Handle(command);
+            }
+
+            command.Success = true;
             return base.Handle(command);
         }
 
-
-
-        return base.Handle(command);
-    }
-
-    private bool TryPurgeMapDatabase()
-    {
-        var chunkLayer = _worldMapManager.MapLayers.OfType<ChunkMapLayer>().FirstOrDefault();
-        if (chunkLayer is null) return false;
-        var sapi = ApiEx.Server;
-
-        var mapdb = new MapDB(sapi.World.Logger);
-        string errorMessage = null;
-        string mapdbfilepath = chunkLayer.getMapDbFilePath();
-        mapdb.OpenOrCreate(mapdbfilepath, ref errorMessage, true, true, false);
-        if (errorMessage is not null)
+        private static bool TryPugeWorldMap(ChunkMapLayer chunkLayer)
         {
-            sapi.Logger.Error(string.Format("Cannot open {0}, possibly corrupted. Please fix manually or delete this file to continue playing", mapdbfilepath));
-            sapi.Logger.Error(errorMessage);
-            return false;
+            var curVisibleChunks = chunkLayer.GetField<HashSet<Vec2i>>("curVisibleChunks");
+            if (curVisibleChunks is null) return false;
+            curVisibleChunks.Clear();
+            chunkLayer.SetField("curVisibleChunks", curVisibleChunks);
+
+            chunkLayer.ChunkTextures.Clear();
+            chunkLayer.LoadedChunks.Clear();
+
+            return true;
         }
-        mapdb.Purge();
-        return true;
+
+        private static bool TryPurgeMapDatabase(PurgeWorldMapCommand command, ChunkMapLayer chunkLayer)
+        {
+            var sapi = ApiEx.Server;
+            var mapdb = new MapDB(sapi.World.Logger);
+            string errorMessage = string.Empty;
+            string mapdbfilepath = chunkLayer.getMapDbFilePath();
+            mapdb.OpenOrCreate(mapdbfilepath, ref errorMessage, true, true, false);
+            if (!string.IsNullOrEmpty(errorMessage))
+            {
+                command.ErrorMessages.Add($"Cannot open `{mapdbfilepath}`, possibly corrupted. Please fix manually or delete this file to continue playing");
+                command.ErrorMessages.Add(errorMessage);
+                return false;
+            }
+            mapdb.Purge();
+            return true;
+        }
     }
 }

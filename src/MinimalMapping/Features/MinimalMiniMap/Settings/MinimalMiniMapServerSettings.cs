@@ -15,7 +15,9 @@ public class MinimalMiniMapServerSettings : MinimalMiniMapSettings, IEasyXServer
         MinimumZoomLevel = 2f;
         DefaultZoomLevel = 3f;
         MaximumZoomLevel = 6f;
-        ForceMiniMapActive = true;
+        ForceMiniMapActive = false;
+        AllowMiniMapKeyBinding = false;
+        AllowKeyBinding = true;
     }
 
     /// <inheritdoc />

@@ -1,5 +1,8 @@
-﻿using System.Text;
+﻿using System;
+using System.Text;
 using ApacheTech.VintageMods.MinimalMapping.Features.MinimalMiniMap.Systems;
+using Gantry.Core;
+using Gantry.Core.Extensions.Api;
 using JetBrains.Annotations;
 using Vintagestory.API.MathTools;
 using Vintagestory.Client.NoObf;
@@ -10,6 +13,27 @@ namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalMiniMap.Patches;
 [UsedImplicitly(ImplicitUseTargetFlags.WithMembers)]
 internal class MinimalMiniMapClientPatches
 {
+    /// <summary>
+    ///     Disabled 'F6' Key Binding.
+    /// </summary>
+    [HarmonyPostfix]
+    [HarmonyPatch(typeof(WorldMapManager), "OnLvlFinalize")]
+    internal static void Harmony_WorldMapManager_OnLvlFinalize_Postfix()
+    {
+        if (ApiEx.Side.IsServer()) return;
+        try
+        {
+            if (MinimalMiniMapClientSystem.Settings.AllowMiniMapKeyBinding) return;
+            ApiEx.Client.Settings.Bool["showMinimapHud"] = false;
+            ApiEx.Client.Input.HotKeys.Remove("worldmaphud");
+        }
+        catch (Exception ex)
+        {
+            ApiEx.Client.Logger.GantryDebug("Error disabling F6 hotkey.");
+            ApiEx.Client.Logger.GantryDebug(ex.Message);
+        }
+    }
+
     /// <summary>
     ///     Mini-map zoom level defaults to 3, rather than 2.
     /// </summary>
@@ -68,6 +92,18 @@ internal class MinimalMiniMapClientPatches
     }
 
     /// <summary>
+    ///     Disabled 'F6' Key Binding.
+    /// </summary>
+    [HarmonyPrefix]
+    [HarmonyPatch(typeof(GuiCompositeSettings), "onMinimapHudChanged")]
+    internal static void Harmony_GuiCompositeSettings_onMinimapHudChanged_Prefix(ref bool on)
+    {
+        if (!MinimalMiniMapClientSystem.Settings.Enabled) return;
+        if (MinimalMiniMapClientSystem.Settings.AllowMiniMapKeyBinding) return;
+        on = false;
+    }    
+
+    /// <summary>
     ///     Disabled coordinates being shown when hovering over the mini-map. 
     /// </summary>
     [HarmonyPrefix]
@@ -81,7 +117,7 @@ internal class MinimalMiniMapClientPatches
             var stringBuilder = new StringBuilder();
             var guiElementMap = (GuiElementMap)__instance.SingleComposer.GetElement("mapElem");
             var hoverText = __instance.SingleComposer.GetHoverText("hoverText");
-            foreach (MapLayer mapLayer in guiElementMap.mapLayers)
+            foreach (var mapLayer in guiElementMap.mapLayers)
             {
                 mapLayer.OnMouseMoveClient(args, guiElementMap, stringBuilder);
             }

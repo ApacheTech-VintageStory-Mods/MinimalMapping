@@ -7,6 +7,9 @@
   "Features.WorldMap.WipeWorldMapAtLogin": "Wipe World Map At Login: {0}",
   "Features.WorldMap.WipeWorldMapAtLogin.Description": "Wipe the player's world map whenever they log in.",
 
+  "Features.WorldMap.WipeWorldOnDeath": "Wipe World Map On Death: {0}",
+  "Features.WorldMap.WipeWorldOnDeath.Description": "Wipe the player's world map whenever they die.",
+
   "Features.WorldMap.WorldMapFogOfWarRadius": "Fog Of War Radius: {0} chunks",
   "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Control the distance, in chunks, away from the player the world map will reveal.",
 

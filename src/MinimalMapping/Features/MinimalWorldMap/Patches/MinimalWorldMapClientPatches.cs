@@ -1,6 +1,7 @@
 ﻿using ApacheTech.Common.Extensions.Harmony;
 using ApacheTech.VintageMods.MinimalMapping.Features.MinimalWorldMap.Systems;
 using Gantry.Core;
+using Gantry.Core.Extensions.Api;
 using JetBrains.Annotations;
 using System;
 using System.Collections.Concurrent;
@@ -19,10 +20,19 @@ internal class MinimalWorldMapClientPatches
     /// </summary>
     [HarmonyPostfix]
     [HarmonyPatch(typeof(WorldMapManager), "OnLvlFinalize")]
-    internal static void Harmony_WorldMapManager_OnLvlFinalize_Postfix(ICoreClientAPI ___capi)
+    internal static void Harmony_WorldMapManager_OnLvlFinalize_Postfix()
     {
-        if (MinimalWorldMapClientSystem.Settings.AllowKeyBinding) return;
-        ___capi.Input.HotKeys.Remove("worldmapdialog");
+        if (ApiEx.Side.IsServer()) return;
+        try
+        {
+            if (MinimalWorldMapClientSystem.Settings.AllowKeyBinding) return;
+            ApiEx.Client.Input.HotKeys.Remove("worldmapdialog");
+        }
+        catch (Exception ex)
+        {
+            ApiEx.Client.Logger.GantryDebug("Error disabling M hotkey.");
+            ApiEx.Client.Logger.GantryDebug(ex.Message);
+        }
     }
 
     [HarmonyPrefix]
