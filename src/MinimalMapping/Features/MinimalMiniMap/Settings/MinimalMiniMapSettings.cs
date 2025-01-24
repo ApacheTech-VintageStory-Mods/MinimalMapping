@@ -5,7 +5,7 @@ namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalMiniMap.Settings
 
 [ProtoContract]
 [ProtoInclude(100, typeof(MinimalMiniMapClientSettings))]
-public abstract class MinimalMiniMapSettings : FeatureSettings
+public class MinimalMiniMapSettings : FeatureSettings<MinimalMiniMapServerSettings>
 {
     /// <summary>
     ///     Disabled 'V' Key Binding.
@@ -60,5 +60,5 @@ public abstract class MinimalMiniMapSettings : FeatureSettings
     ///     Mini-map visible by default, but can still be manually hidden by player.
     /// </summary>
     [ProtoMember(10)]
-    public bool ForceMiniMapActive { get; set; }
+    public bool EnsureMiniMapActive { get; set; }
 }

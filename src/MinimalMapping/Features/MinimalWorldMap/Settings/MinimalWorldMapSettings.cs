@@ -8,7 +8,7 @@ namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalWorldMap.Setting
 /// </summary>
 [ProtoContract]
 [ProtoInclude(100, typeof(MinimalWorldMapClientSettings))]
-public abstract class MinimalWorldMapSettings : FeatureSettings
+public class MinimalWorldMapSettings : FeatureSettings<MinimalWorldMapServerSettings>
 {
     /// <summary>
     ///     Disabled 'M' Key Binding.

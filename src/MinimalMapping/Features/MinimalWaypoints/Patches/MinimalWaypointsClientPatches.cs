@@ -3,7 +3,7 @@ using JetBrains.Annotations;
 
 namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalWaypoints.Patches;
 
-[HarmonySidedPatch(EnumAppSide.Client)]
+[HarmonyClientSidePatch]
 [UsedImplicitly(ImplicitUseTargetFlags.WithMembers)]
 internal class MinimalWaypointsClientPatches
 {

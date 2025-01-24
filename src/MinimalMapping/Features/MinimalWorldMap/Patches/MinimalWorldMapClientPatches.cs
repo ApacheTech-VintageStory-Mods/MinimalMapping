@@ -1,7 +1,6 @@
 ﻿using ApacheTech.Common.Extensions.Harmony;
 using ApacheTech.VintageMods.MinimalMapping.Features.MinimalWorldMap.Systems;
 using Gantry.Core;
-using Gantry.Core.Extensions.Api;
 using JetBrains.Annotations;
 using System;
 using System.Collections.Concurrent;
@@ -11,7 +10,7 @@ using Vintagestory.API.MathTools;
 
 namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalWorldMap.Patches;
 
-[HarmonySidedPatch(EnumAppSide.Client)]
+[HarmonyClientSidePatch]
 [UsedImplicitly(ImplicitUseTargetFlags.WithMembers)]
 internal class MinimalWorldMapClientPatches
 {
@@ -30,8 +29,7 @@ internal class MinimalWorldMapClientPatches
         }
         catch (Exception ex)
         {
-            ApiEx.Client.Logger.GantryDebug("Error disabling M hotkey.");
-            ApiEx.Client.Logger.GantryDebug(ex.Message);
+            ApiEx.Logger.Error(ex);
         }
     }
 

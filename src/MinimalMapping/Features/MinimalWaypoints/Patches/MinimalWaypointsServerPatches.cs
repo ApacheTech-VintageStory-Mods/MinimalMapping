@@ -1,13 +1,10 @@
 ﻿using ApacheTech.VintageMods.MinimalMapping.Features.MinimalWaypoints.Systems;
 using JetBrains.Annotations;
-using System.Collections.Generic;
 using Vintagestory.API.Server;
-using Vintagestory.API.Util;
-using Vintagestory.GameContent;
 
 namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalWaypoints.Patches;
 
-[HarmonySidedPatch(EnumAppSide.Server)]
+[HarmonyServerSidePatch]
 [UsedImplicitly(ImplicitUseTargetFlags.WithMembers)]
 internal class MinimalWaypointsServerPatches
 {

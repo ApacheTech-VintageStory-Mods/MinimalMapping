@@ -3,7 +3,6 @@ using ApacheTech.VintageMods.MinimalMapping.Features.MinimalWaypoints.Settings;
 using Gantry.Core;
 using Gantry.Core.Hosting;
 using Gantry.Services.EasyX.Abstractions;
-using System;
 using System.Text;
 using Vintagestory.API.Server;
 
@@ -21,7 +20,6 @@ internal class MinimalWaypointsServerSystem : EasyXServerSystemBase<MinimalWaypo
 
     public override void Dispose()
     {
-        GC.SuppressFinalize(this);
         base.Dispose();
         Sapi.Event.PlayerJoin -= Event_PlayerJoin;
     }

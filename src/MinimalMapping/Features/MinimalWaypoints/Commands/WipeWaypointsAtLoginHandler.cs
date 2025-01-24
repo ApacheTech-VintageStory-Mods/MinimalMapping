@@ -1,7 +1,7 @@
 ﻿using ApacheTech.Common.BrighterSlim;
 using Gantry.Core;
 using Gantry.Core.Annotation;
-using Gantry.Core.Brighter.Filters;
+using Gantry.Services.Brighter.Filters;
 using System.Linq;
 using Vintagestory.API.Server;
 using Vintagestory.API.Util;
@@ -9,16 +9,11 @@ using Vintagestory.API.Util;
 namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalWaypoints.Commands;
 
 [ServerSide]
-public class WipeWaypointsAtLoginHandler : RequestHandler<WipeWaypointsAtLoginCommand>
+public class WipeWaypointsAtLoginHandler(WorldMapManager worldMapManager) : RequestHandler<WipeWaypointsAtLoginCommand>
 {
-    private readonly WorldMapManager _worldMapManager;
+    private readonly WorldMapManager _worldMapManager = worldMapManager;
 
-    public WipeWaypointsAtLoginHandler(WorldMapManager worldMapManager)
-    {
-        _worldMapManager = worldMapManager;
-    }
-
-    [Side(EnumAppSide.Server, asynchronous: false)]
+    [HandledOnServer]
     public override WipeWaypointsAtLoginCommand Handle(WipeWaypointsAtLoginCommand command)
     {
         var waypointMapLayer = _worldMapManager.MapLayers.OfType<WaypointMapLayer>().FirstOrDefault();

@@ -1,13 +1,13 @@
 ﻿using ApacheTech.VintageMods.MinimalMapping.Features.MinimalMiniMap.Settings;
 using Gantry.Core;
 using Gantry.Services.EasyX.Abstractions;
-using Gantry.Services.EasyX.ChatCommands.Parsers.Extensions;
+using Gantry.Core.GameContent.ChatCommands.Parsers.Extensions;
 using System.Text;
 using Vintagestory.API.MathTools;
 
 namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalMiniMap.Systems;
 
-internal class MinimalMiniMapServerSystem : EasyXServerSystemBase<MinimalMiniMapServerSettings, MinimalMiniMapClientSettings, MinimalMiniMapSettings>
+public sealed class MinimalMiniMapServerSystem : EasyXServerSystemBase<MinimalMiniMapServerSettings, MinimalMiniMapClientSettings, MinimalMiniMapSettings>
 {
     protected override string SubCommandName { get; } = "MiniMap";
 
@@ -72,12 +72,12 @@ internal class MinimalMiniMapServerSystem : EasyXServerSystemBase<MinimalMiniMap
             .HandleWith(args => OnChange<float>(args, "MaximumZoomLevel", p => p = GameMath.Clamp(p, Settings.MinimumZoomLevel, 12f)))
             .EndSubCommand();
 
-        // ForceMiniMapActive
+        // EnsureMiniMapActive
         subCommand
             .BeginSubCommand("force")
-            .WithArgs(parsers.Bool("ForceMiniMapActive"))
-            .WithDescription(LangEx.FeatureString($"{SubCommandName}.{nameof(Settings.ForceMiniMapActive)}", "Description"))
-            .HandleWith(args => OnChange<bool>(args, "ForceMiniMapActive"))
+            .WithArgs(parsers.Bool("EnsureMiniMapActive"))
+            .WithDescription(LangEx.FeatureString($"{SubCommandName}.{nameof(Settings.EnsureMiniMapActive)}", "Description"))
+            .HandleWith(args => OnChange<bool>(args, "EnsureMiniMapActive"))
             .EndSubCommand();
     }
 
@@ -90,6 +90,6 @@ internal class MinimalMiniMapServerSystem : EasyXServerSystemBase<MinimalMiniMap
         sb.AppendLine(LangEx.FeatureString(SubCommandName, "MinimumZoomLevel", Settings.MinimumZoomLevel));
         sb.AppendLine(LangEx.FeatureString(SubCommandName, "DefaultZoomLevel", Settings.DefaultZoomLevel));
         sb.AppendLine(LangEx.FeatureString(SubCommandName, "MaximumZoomLevel", Settings.MaximumZoomLevel));
-        sb.AppendLine(LangEx.FeatureString(SubCommandName, "ForceMiniMapActive", Settings.ForceMiniMapActive));
+        sb.AppendLine(LangEx.FeatureString(SubCommandName, "EnsureMiniMapActive", Settings.EnsureMiniMapActive));
     }
 }

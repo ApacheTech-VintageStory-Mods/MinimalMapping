@@ -1,5 +1,5 @@
-﻿using Gantry.Services.EasyX.Abstractions;
-using Gantry.Services.EasyX.ChatCommands.DataStructures;
+﻿using Gantry.Core.GameContent.ChatCommands.DataStructures;
+using Gantry.Services.EasyX.Abstractions;
 using System.Collections.Generic;
 
 namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalWorldMap.Settings;

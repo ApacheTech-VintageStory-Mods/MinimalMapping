@@ -1,5 +1,4 @@
-﻿using ApacheTech.VintageMods.MinimalMapping.Features.MinimalWorldMap.Settings;
-using Gantry.Services.FileSystem.Configuration.Abstractions;
+﻿using Gantry.Services.FileSystem.Configuration.Abstractions;
 using ProtoBuf;
 
 namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalWaypoints.Settings;
@@ -9,7 +8,7 @@ namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalWaypoints.Settin
 /// </summary>
 [ProtoContract]
 [ProtoInclude(100, typeof(MinimalWaypointsClientSettings))]
-public abstract class MinimalWaypointsSettings : FeatureSettings
+public class MinimalWaypointsSettings : FeatureSettings<MinimalWaypointsServerSettings>
 {
     /// <summary>
     ///     Waypoints cannot be pinned.I've re-written both the '/waypoint' command, and the Add/Edit Waypoint GUIs.

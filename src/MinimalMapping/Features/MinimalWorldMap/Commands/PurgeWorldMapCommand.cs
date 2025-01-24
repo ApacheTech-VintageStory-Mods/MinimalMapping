@@ -2,8 +2,8 @@
 using ApacheTech.Common.Extensions.Harmony;
 using Gantry.Core;
 using Gantry.Core.Annotation;
-using Gantry.Core.Brighter.Abstractions;
-using Gantry.Core.Brighter.Filters;
+using Gantry.Services.Brighter.Abstractions;
+using Gantry.Services.Brighter.Filters;
 using System.Collections.Generic;
 using System.Linq;
 using Vintagestory.API.MathTools;
@@ -18,7 +18,7 @@ public class PurgeWorldMapCommand : CommandBase
     {
         private readonly WorldMapManager _worldMapManager = worldMapManager;
 
-        [Side(EnumAppSide.Client)]
+        [HandledOnClient]
         public override PurgeWorldMapCommand Handle(PurgeWorldMapCommand command)
         {
             var chunkLayer = _worldMapManager.MapLayers.OfType<ChunkMapLayer>().FirstOrDefault();

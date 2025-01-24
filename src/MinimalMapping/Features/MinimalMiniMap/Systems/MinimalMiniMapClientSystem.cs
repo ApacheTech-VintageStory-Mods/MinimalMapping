@@ -15,7 +15,6 @@ internal class MinimalMiniMapClientSystem : EasyXClientSystemBase<MinimalMiniMap
 
     public override void Dispose()
     {
-        GC.SuppressFinalize(this);
         Capi.Event.PlayerJoin -= Event_PlayerJoin;
     }
 
@@ -23,7 +22,7 @@ internal class MinimalMiniMapClientSystem : EasyXClientSystemBase<MinimalMiniMap
     {
         if (!Settings.Enabled) return;
 
-        if (Settings.ForceMiniMapActive)
+        if (Settings.EnsureMiniMapActive)
         {
             Capi.World.Config.SetBool("allowMap", true); // Ensure map is enabled within the game world.
             Capi.Settings.Bool["showMinimapHud"] = true; // Mini-map visible by default, but can still be manually hidden by player. 

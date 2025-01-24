@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
+using Gantry.Core.GameContent.ChatCommands.DataStructures;
 using Gantry.Services.EasyX.Abstractions;
-using Gantry.Services.EasyX.ChatCommands.DataStructures;
 
 namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalMiniMap.Settings;
 
@@ -15,7 +15,7 @@ public class MinimalMiniMapServerSettings : MinimalMiniMapSettings, IEasyXServer
         MinimumZoomLevel = 2f;
         DefaultZoomLevel = 3f;
         MaximumZoomLevel = 6f;
-        ForceMiniMapActive = false;
+        EnsureMiniMapActive = false;
         AllowMiniMapKeyBinding = false;
         AllowKeyBinding = true;
     }

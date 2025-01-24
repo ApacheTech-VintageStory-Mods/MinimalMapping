@@ -2,14 +2,13 @@
 using System.Text;
 using ApacheTech.VintageMods.MinimalMapping.Features.MinimalMiniMap.Systems;
 using Gantry.Core;
-using Gantry.Core.Extensions.Api;
 using JetBrains.Annotations;
 using Vintagestory.API.MathTools;
 using Vintagestory.Client.NoObf;
 
 namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalMiniMap.Patches;
 
-[HarmonySidedPatch(EnumAppSide.Client)]
+[HarmonyClientSidePatch]
 [UsedImplicitly(ImplicitUseTargetFlags.WithMembers)]
 internal class MinimalMiniMapClientPatches
 {
@@ -29,8 +28,7 @@ internal class MinimalMiniMapClientPatches
         }
         catch (Exception ex)
         {
-            ApiEx.Client.Logger.GantryDebug("Error disabling F6 hotkey.");
-            ApiEx.Client.Logger.GantryDebug(ex.Message);
+            ApiEx.Logger.Error(ex);
         }
     }
 

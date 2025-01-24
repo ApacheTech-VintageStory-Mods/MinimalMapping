@@ -6,7 +6,7 @@ using Vintagestory.API.MathTools;
 
 namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalWorldMap.Systems;
 
-internal class MinimalWorldMapServerSystem : EasyXServerSystemBase<MinimalWorldMapServerSettings, MinimalWorldMapClientSettings, MinimalWorldMapSettings>
+public sealed class MinimalWorldMapServerSystem : EasyXServerSystemBase<MinimalWorldMapServerSettings, MinimalWorldMapClientSettings, MinimalWorldMapSettings>
 {
     protected override string SubCommandName { get; } = "WorldMap";
 
@@ -25,15 +25,23 @@ internal class MinimalWorldMapServerSystem : EasyXServerSystemBase<MinimalWorldM
 
         // WipeWorldMapAtLogin
         subCommand
-            .BeginSubCommand("wipe")
+            .BeginSubCommand("wipe-at-login")
             .WithArgs(parsers.Bool(nameof(Settings.WipeWorldMapAtLogin)))
             .WithDescription(LangEx.FeatureString($"{SubCommandName}.{nameof(Settings.WipeWorldMapAtLogin)}", "Description"))
             .HandleWith(args => OnChange<bool>(args, nameof(Settings.WipeWorldMapAtLogin)))
             .EndSubCommand();
 
+        // WipeWorldMapOnDeath
+        subCommand
+            .BeginSubCommand("wipe-on-death")
+            .WithArgs(parsers.Bool(nameof(Settings.WipeWorldMapOnDeath)))
+            .WithDescription(LangEx.FeatureString($"{SubCommandName}.{nameof(Settings.WipeWorldMapOnDeath)}", "Description"))
+            .HandleWith(args => OnChange<bool>(args, nameof(Settings.WipeWorldMapOnDeath)))
+            .EndSubCommand();
+
         // WorldMapFogOfWarRadius
         subCommand
-            .BeginSubCommand("fogradius")
+            .BeginSubCommand("fog-radius")
             .WithArgs(parsers.IntRange(nameof(Settings.WorldMapFogOfWarRadius), 0, 32))
             .WithDescription(LangEx.FeatureString($"{SubCommandName}.{nameof(Settings.WorldMapFogOfWarRadius)}", "Description"))
             .HandleWith(args => OnChange<int>(args, nameof(Settings.WorldMapFogOfWarRadius), p => p = GameMath.Clamp(p, 0, 32)))

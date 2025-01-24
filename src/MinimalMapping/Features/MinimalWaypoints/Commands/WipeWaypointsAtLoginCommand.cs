@@ -1,4 +1,4 @@
-﻿using Gantry.Core.Brighter.Abstractions;
+﻿using Gantry.Services.Brighter.Abstractions;
 
 namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalWaypoints.Commands;
 
