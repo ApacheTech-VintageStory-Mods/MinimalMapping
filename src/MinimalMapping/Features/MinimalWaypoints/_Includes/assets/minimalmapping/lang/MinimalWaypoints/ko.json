@@ -1,9 +1,7 @@
-{
-  "Features.Waypoints.Description": "웨이포인트 사용 제한 옵션을 제공합니다.",
-
-  "Features.Waypoints.AllowPinnedWaypoints": "고정된 웨이포인트 허용: {0}",
-  "Features.Waypoints.AllowPinnedWaypoints.Description": "플레이어가 웨이포인트를 고정할 수 있는지 결정합니다.",
-
-  "Features.Waypoints.WipeWaypointsAtLogin": "로그인 시 웨이포인트 초기화: {0}",
-  "Features.Waypoints.WipeWaypointsAtLogin.Description": "플레이어가 로그인할 때마다 웨이포인트를 초기화합니다."
+﻿{
+    "Features.Waypoints.Description":  "웨이포인트 사용을 제한하기 위한 옵션을 제공합니다.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "로그인 시 웨이포인트 지우기: {0}",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "플레이어가 로그인할 때마다 플레이어의 웨이포인트를 지웁니다.",
+    "Features.Waypoints.AllowPinnedWaypoints.Description":  "플레이어가 웨이포인트를 고정할 수 있는지 여부를 결정합니다.",
+    "Features.Waypoints.AllowPinnedWaypoints":  "고정된 웨이포인트 허용: {0}"
 }

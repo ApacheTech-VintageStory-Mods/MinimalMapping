@@ -1,27 +1,19 @@
-{
-  "Features.MiniMap.Description": "Fornisce opzioni per limitare l'uso della minimappa.",
-
-  "Features.MiniMap.AllowKeyBinding": "Permetti Assegnazione dei Tasti: {0}",
-  "Features.MiniMap.AllowKeyBinding.Description": "Scegli se i giocatori possono utilizzare l'assegnazione dei tasti predefinita 'V' per l'HUD delle coordinate.",
-
-  "Features.MiniMap.AllowCoordinatesHud": "Permetti HUD delle Coordinate: {0}",
-  "Features.MiniMap.AllowCoordinatesHud.Description": "Permette al giocatore di attivare l'HUD delle coordinate nel menu delle impostazioni.",
-
-  "Features.MiniMap.AllowCoordinatesOnHover": "Permetti Coordinate al Passaggio del Mouse: {0}",
-  "Features.MiniMap.AllowCoordinatesOnHover.Description": "Mostra o meno le coordinate quando si passa il mouse sulla minimappa.",
-
-  "Features.MiniMap.AllowMiniMapScrolling": "Permetti Scorrimento Minimappa: {0}",
-  "Features.MiniMap.AllowMiniMapScrolling.Description": "Scegli se il giocatore può cliccare e trascinare la minimappa.",
-
-  "Features.MiniMap.MinimumZoomLevel": "Livello di Zoom Minimo: {0}",
-  "Features.MiniMap.MinimumZoomLevel.Description": "Il livello di zoom minimo della minimappa.",
-
-  "Features.MiniMap.DefaultZoomLevel": "Livello di Zoom Predefinito: {0}",
-  "Features.MiniMap.DefaultZoomLevel.Description": "Il livello di zoom predefinito della minimappa.",
-
-  "Features.MiniMap.MaximumZoomLevel": "Livello di Zoom Massimo: {0}",
-  "Features.MiniMap.MaximumZoomLevel.Description": "Il livello di zoom massimo della minimappa.",
-
-  "Features.MiniMap.EnsureMiniMapActive": "Forza Minimappa: {0}",
-  "Features.MiniMap.EnsureMiniMapActive.Description": "Forza la disponibilità della minimappa, indipendentemente dalle impostazioni del server."
+﻿{
+    "Features.MiniMap.EnsureMiniMapActive":  "Minimappa della Forza: {0}",
+    "Features.MiniMap.EnsureMiniMapActive.Description":  "Forza la disponibilità della minimappa, indipendentemente dalle impostazioni del server.",
+    "Features.MiniMap.AllowCoordinatesOnHover.Description":  "Se mostrare o meno le coordinate quando si passa il mouse sulla minimappa.",
+    "Features.MiniMap.AllowMiniMapScrolling.Description":  "Scegli se il giocatore può fare clic e trascinare la minimappa.",
+    "Features.MiniMap.MaximumZoomLevel":  "Livello massimo di zoom: {0}",
+    "Features.MiniMap.AllowMiniMapScrolling":  "Consenti scorrimento minimappa: {0}",
+    "Features.MiniMap.MaximumZoomLevel.Description":  "Il livello massimo di zoom della minimappa.",
+    "Features.MiniMap.AllowKeyBinding":  "Consenti associazione tasti: {0}",
+    "Features.MiniMap.MinimumZoomLevel.Description":  "Il livello minimo di zoom della minimappa.",
+    "Features.MiniMap.AllowCoordinatesOnHover":  "Consenti coordinate al passaggio del mouse: {0}",
+    "Features.MiniMap.AllowCoordinatesHud":  "Consenti coordinate HUD: {0}",
+    "Features.MiniMap.DefaultZoomLevel":  "Livello di zoom predefinito: {0}",
+    "Features.MiniMap.Description":  "Fornisce opzioni per limitare l\u0027uso della minimappa.",
+    "Features.MiniMap.DefaultZoomLevel.Description":  "Il livello di zoom predefinito della minimappa.",
+    "Features.MiniMap.AllowKeyBinding.Description":  "Scegli se i giocatori possono utilizzare la combinazione di tasti \"V\" predefinita per l\u0027HUD delle coordinate.",
+    "Features.MiniMap.MinimumZoomLevel":  "Livello di zoom minimo: {0}",
+    "Features.MiniMap.AllowCoordinatesHud.Description":  "Consente al giocatore di attivare l\u0027interfaccia delle coordinate nel menu delle impostazioni."
 }

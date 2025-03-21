@@ -1,0 +1,19 @@
+﻿{
+    "Features.MiniMap.EnsureMiniMapActive":  "原力小地圖：{0}",
+    "Features.MiniMap.EnsureMiniMapActive.Description":  "強制小地圖可用，而不管伺服器設置如何。",
+    "Features.MiniMap.AllowCoordinatesOnHover.Description":  "將滑鼠懸停在小地圖上時是否顯示座標。",
+    "Features.MiniMap.AllowMiniMapScrolling.Description":  "選擇玩家是否可以按下並拖動小地圖。",
+    "Features.MiniMap.MaximumZoomLevel":  "最大縮放等級：{0}",
+    "Features.MiniMap.AllowMiniMapScrolling":  "允許小地圖滾動：{0}",
+    "Features.MiniMap.MaximumZoomLevel.Description":  "小地圖的最大縮放級別。",
+    "Features.MiniMap.AllowKeyBinding":  "允許鍵綁定：{0}",
+    "Features.MiniMap.MinimumZoomLevel.Description":  "小地圖的最小縮放級別。",
+    "Features.MiniMap.AllowCoordinatesOnHover":  "Allow Co-ordinate On Hover（允許在懸停時座標）：{0}",
+    "Features.MiniMap.AllowCoordinatesHud":  "允許座標 HUD：{0}",
+    "Features.MiniMap.DefaultZoomLevel":  "預設縮放等級：{0}",
+    "Features.MiniMap.Description":  "提供用於限制小地圖使用的選項。",
+    "Features.MiniMap.DefaultZoomLevel.Description":  "小地圖的預設縮放級別。",
+    "Features.MiniMap.AllowKeyBinding.Description":  "選擇玩家是否可以將預設的 『V』 鍵綁定用於座標 HUD。",
+    "Features.MiniMap.MinimumZoomLevel":  "最小縮放級別：{0}",
+    "Features.MiniMap.AllowCoordinatesHud.Description":  "允許玩家在其設置功能表中打開座標 HUD 的選項。"
+}

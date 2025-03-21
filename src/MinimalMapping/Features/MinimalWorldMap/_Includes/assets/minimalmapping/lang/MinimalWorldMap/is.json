@@ -1,0 +1,13 @@
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "Þurrkaðu heimskort leikmannsins í hvert skipti sem hann skráir sig inn.",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "Þurrkaðu heimskort við innskráningu: {0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "Stríðsþoka: {0}",
+    "Features.WorldMap.Description":  "Býður upp á valkosti til að takmarka notkun heimskortsins.",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "Stjórnaðu fjarlægðinni, í bitum, frá spilaranum sem heimskortið mun sýna.",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "Spilarar munu aðeins geta séð heimskortið innan ákveðins radíuss í kringum sig.",
+    "Features.WorldMap.AllowKeyBinding":  "Leyfa lyklabindingu: {0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "Veldu hvort leikmenn geti notað sjálfgefna \"M\" lyklabindingu fyrir heimskortið.",
+    "Features.WorldMap.WipeWorldOnDeath":  "Þurrkaðu heimskort við dauðann: {0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "Þurrkaðu heimskort leikmannsins þegar hann deyr.",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "Þoka stríðsradíus: {0} klumpar"
+}

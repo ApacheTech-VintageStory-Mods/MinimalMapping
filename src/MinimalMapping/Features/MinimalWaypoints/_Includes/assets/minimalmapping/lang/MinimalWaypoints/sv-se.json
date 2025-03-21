@@ -1,9 +1,7 @@
-{
-  "Features.Waypoints.Description": "Ger alternativ för att begränsa användningen av vägpunkter.",
-
-  "Features.Waypoints.AllowPinnedWaypoints": "Tillåt Fästa Vägpunkter: {0}",
-  "Features.Waypoints.AllowPinnedWaypoints.Description": "Bestämmer om spelare kan fästa vägpunkter.",
-
-  "Features.Waypoints.WipeWaypointsAtLogin": "Torka waypoints vid inloggning: {0}",
-  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Torka spelarens waypoints varje gång de loggar in."
+﻿{
+    "Features.Waypoints.Description":  "Ger alternativ för att begränsa användningen av waypoints.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Torka waypoints vid inloggning: {0}",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Rensa spelarens waypoints när de loggar in.",
+    "Features.Waypoints.AllowPinnedWaypoints.Description":  "Avgör om spelare kan fästa waypoints.",
+    "Features.Waypoints.AllowPinnedWaypoints":  "Tillåt fästa waypoints: {0}"
 }

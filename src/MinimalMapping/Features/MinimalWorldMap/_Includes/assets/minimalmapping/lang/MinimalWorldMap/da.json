@@ -1,0 +1,13 @@
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "Slet spillerens verdenskort, når de logger ind.",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "Tør verdenskort ved login: {0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "Krigens tåge: {0}",
+    "Features.WorldMap.Description":  "Giver mulighed for at begrænse brugen af verdenskortet.",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "Kontroller afstanden, i bidder, væk fra spilleren, som verdenskortet vil afsløre.",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "Spillere vil kun være i stand til at se verdenskortet inden for en bestemt radius omkring dem.",
+    "Features.WorldMap.AllowKeyBinding":  "Tillad nøglebinding: {0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "Vælg, om spillere kan bruge standard \u0027M\u0027-nøglebindingen til verdenskortet.",
+    "Features.WorldMap.WipeWorldOnDeath":  "Slet verdenskortet ved døden: {0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "Slet spillerens verdenskort, når de dør.",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "Krigstågeradius: {0} bidder"
+}

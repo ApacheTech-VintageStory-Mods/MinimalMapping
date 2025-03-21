@@ -1,15 +1,13 @@
-{
-  "Features.WorldMap.Description": "Fornece opções para restringir o uso do mapa mundial.",
-
-  "Features.WorldMap.AllowKeyBinding": "Permitir Vinculação de Teclas: {0}",
-  "Features.WorldMap.AllowKeyBinding.Description": "Escolha se os jogadores podem usar o mapeamento de tecla padrão 'M' para o mapa mundial.",
-
-  "Features.WorldMap.WipeWorldMapAtLogin": "Limpar Mapa Mundial ao Iniciar Sessão: {0}",
-  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Limpe o mapa mundial do jogador sempre que ele iniciar sessão.",
-
-  "Features.WorldMap.WorldMapFogOfWarRadius": "Raio da Névoa de Guerra: {0} blocos",
-  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Controle a distância, em blocos, a partir do jogador que o mapa mundial será revelado.",
-
-  "Features.WorldMap.WorldMapFogOfWarEnabled": "Névoa de Guerra: {0}",
-  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Os jogadores só poderão ver o mapa mundial dentro de um raio definido ao seu redor."
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "Limpe o mapa do mundo do jogador sempre que ele fizer login.",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "Limpe o mapa do mundo no login: {0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "Névoa da Guerra: {0}",
+    "Features.WorldMap.Description":  "Fornece opções para restringir o uso do mapa-múndi.",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "Controle a distância, em pedaços, do jogador que o mapa do mundo irá revelar.",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "Os jogadores só poderão ver o mapa do mundo dentro de um raio definido ao seu redor.",
+    "Features.WorldMap.AllowKeyBinding":  "Permitir vinculação de chave: {0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "Escolha se os jogadores podem usar a ligação de teclas \u0027M\u0027 padrão para o mapa do mundo.",
+    "Features.WorldMap.WipeWorldOnDeath":  "Limpe o Mapa Mundial da Morte: {0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "Limpe o mapa do mundo do jogador sempre que ele morrer.",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "Neblina do raio de guerra: {0} pedaços"
 }

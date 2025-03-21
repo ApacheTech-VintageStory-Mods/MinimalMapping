@@ -1,15 +1,13 @@
-{
-  "Features.WorldMap.Description": "Надає варіанти для обмеження використання карти світу.",
-
-  "Features.WorldMap.AllowKeyBinding": "Дозволити прив'язку клавіш: {0}",
-  "Features.WorldMap.AllowKeyBinding.Description": "Виберіть, чи можуть гравці використовувати прив'язку клавіші 'M' за замовчуванням для карти світу.",
-
-  "Features.WorldMap.WipeWorldMapAtLogin": "Стерти карту світу при вході: {0}",
-  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Стирати карту світу гравця кожного разу, коли вони входять у гру.",
-
-  "Features.WorldMap.WorldMapFogOfWarRadius": "Радіус Туману Війни: {0} частин",
-  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Контролюйте відстань, у частинах, на яку від гравця буде відкриватися карта світу.",
-
-  "Features.WorldMap.WorldMapFogOfWarEnabled": "Туман Війни: {0}",
-  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Гравці зможуть бачити карту світу лише в межах встановленого радіуса навколо них."
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "Стирайте карту світу гравця щоразу, коли він входить у систему.",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "Стирання карти світу при вході: {0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "Туман війни: {0}",
+    "Features.WorldMap.Description":  "Надає опції для обмеження використання карти світу.",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "Контролюйте відстань, шматками, подалі від гравця відкриється карта світу.",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "Гравці зможуть бачити карту світу лише у встановленому радіусі навколо себе.",
+    "Features.WorldMap.AllowKeyBinding":  "Дозволити прив\u0027язку клавіш: {0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "Виберіть, чи можуть гравці використовувати стандартну прив\u0027язку клавіш «M» для карти світу.",
+    "Features.WorldMap.WipeWorldOnDeath":  "Стерти карту світу після смерті: {0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "Стирайте карту світу гравця щоразу, коли він помирає.",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "Радіус дії Fog Of War: {0} частин"
 }

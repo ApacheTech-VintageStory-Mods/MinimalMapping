@@ -1,0 +1,7 @@
+﻿{
+    "Features.Waypoints.Description":  "Býður upp á valkosti til að takmarka notkun leiðarpunkta.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Þurrkaðu leiðarpunkta við innskráningu: {0}",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Þurrkaðu leiðarpunkta leikmannsins í hvert skipti sem hann skráir sig inn.",
+    "Features.Waypoints.AllowPinnedWaypoints.Description":  "Ákvarðar hvort leikmenn geti fundið leiðarpunkta.",
+    "Features.Waypoints.AllowPinnedWaypoints":  "Leyfa festa leiðarpunkta: {0}"
+}

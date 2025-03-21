@@ -1,15 +1,13 @@
-{
-  "Features.WorldMap.Description": "Ger alternativ för att begränsa användningen av världskartan.",
-
-  "Features.WorldMap.AllowKeyBinding": "Tillåt tangentsbinding: {0}",
-  "Features.WorldMap.AllowKeyBinding.Description": "Välj om spelare kan använda standardtangentbindningen 'M' för världskartan.",
-
-  "Features.WorldMap.WipeWorldMapAtLogin": "Torka världskartan vid inloggning: {0}",
-  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Torka spelarens världskarta varje gång de loggar in.",
-
-  "Features.WorldMap.WorldMapFogOfWarRadius": "Krigsdimma radie: {0} segment",
-  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Styr avståndet, i segment, från spelaren där världskartan kommer att avslöjas.",
-
-  "Features.WorldMap.WorldMapFogOfWarEnabled": "Krigsdimma: {0}",
-  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Spelare kommer endast att kunna se världskartan inom en bestämd radie runt sig."
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "Rensa spelarens världskarta när de loggar in.",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "Torka världskartan vid inloggning: {0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "dimma av krig: {0}",
+    "Features.WorldMap.Description":  "Ger alternativ för att begränsa användningen av världskartan.",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "Kontrollera avståndet, i bitar, bort från spelaren som världskartan kommer att avslöja.",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "Spelare kommer bara att kunna se världskartan inom en viss radie runt dem.",
+    "Features.WorldMap.AllowKeyBinding":  "Tillåt tangentbindning: {0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "Välj om spelare kan använda standardtangentbindningen \"M\" för världskartan.",
+    "Features.WorldMap.WipeWorldOnDeath":  "torka världskartan på döden: {0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "Radera spelarens världskarta när de dör.",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "dimma av krig radie: {0} bitar"
 }

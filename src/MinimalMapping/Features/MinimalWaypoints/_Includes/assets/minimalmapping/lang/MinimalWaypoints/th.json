@@ -1,0 +1,7 @@
+﻿{
+    "Features.Waypoints.Description":  "มีตัวเลือกสําหรับการจํากัดการใช้จุดอ้างอิง",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "เช็ดจุดอ้างอิงเมื่อเข้าสู่ระบบ: {0}",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "ล้างจุดอ้างอิงของผู้เล่นทุกครั้งที่เข้าสู่ระบบ",
+    "Features.Waypoints.AllowPinnedWaypoints.Description":  "กําหนดว่าผู้เล่นสามารถปักหมุดจุดอ้างอิงได้หรือไม่",
+    "Features.Waypoints.AllowPinnedWaypoints":  "อนุญาตจุดอ้างอิงที่ปักหมุด: {0}"
+}

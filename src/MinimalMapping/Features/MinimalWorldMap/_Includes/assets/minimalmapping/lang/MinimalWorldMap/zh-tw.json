@@ -1,0 +1,13 @@
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "每當玩家登錄時擦除他們的世界地圖。",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "登錄時擦除世界地圖：{0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "戰爭迷霧：{0}",
+    "Features.WorldMap.Description":  "提供用於限制世界地圖使用的選項。",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "控制世界地圖將揭示的玩家的距離（以塊為單位）。",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "玩家將只能看到他們周圍一定半徑內的世界地圖。",
+    "Features.WorldMap.AllowKeyBinding":  "允許鍵綁定：{0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "選擇玩家是否可以對世界地圖使用預設的 『M』 鍵綁定。",
+    "Features.WorldMap.WipeWorldOnDeath":  "死亡時擦除世界地圖：{0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "每當玩家死亡時擦除玩家的世界地圖。",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "戰爭迷霧範圍：{0} 個區塊"
+}

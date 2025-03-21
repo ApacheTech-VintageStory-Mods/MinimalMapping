@@ -1,27 +1,19 @@
-{
-  "Features.MiniMap.Description": "Omogućava opcije za ograničavanje upotrebe mini-mape.",
-
-  "Features.MiniMap.AllowKeyBinding": "Dozvoli vezivanje tastera: {0}",
-  "Features.MiniMap.AllowKeyBinding.Description": "Izaberite da li igrači mogu koristiti zadano vezivanje tastera 'V' za HUD sa koordinatama.",
-
-  "Features.MiniMap.AllowCoordinatesHud": "Dozvoli HUD sa koordinatama: {0}",
-  "Features.MiniMap.AllowCoordinatesHud.Description": "Omogućava igraču da uključi HUD sa koordinatama u meniju za podešavanje.",
-
-  "Features.MiniMap.AllowCoordinatesOnHover": "Dozvoli prikaz koordinata pri prelasku mišem: {0}",
-  "Features.MiniMap.AllowCoordinatesOnHover.Description": "Da li prikazati koordinate kada se mišem pređe preko mini-mape.",
-
-  "Features.MiniMap.AllowMiniMapScrolling": "Dozvoli pomeranje mini-mape: {0}",
-  "Features.MiniMap.AllowMiniMapScrolling.Description": "Izaberite da li igrač može da klikne i pomeri mini-map.",
-
-  "Features.MiniMap.MinimumZoomLevel": "Minimalni nivo uvećanja: {0}",
-  "Features.MiniMap.MinimumZoomLevel.Description": "Minimalni nivo uvećanja mini-mape.",
-
-  "Features.MiniMap.DefaultZoomLevel": "Podrazumevani nivo uvećanja: {0}",
-  "Features.MiniMap.DefaultZoomLevel.Description": "Podrazumevani nivo uvećanja mini-mape.",
-
-  "Features.MiniMap.MaximumZoomLevel": "Maksimalni nivo uvećanja: {0}",
-  "Features.MiniMap.MaximumZoomLevel.Description": "Maksimalni nivo uvećanja mini-mape.",
-
-  "Features.MiniMap.EnsureMiniMapActive": "Primoraj mini-mapu: {0}",
-  "Features.MiniMap.EnsureMiniMapActive.Description": "Primorava dostupnost mini-mape bez obzira na postavke servera."
+﻿{
+    "Features.MiniMap.EnsureMiniMapActive":  "Sila Mini-mapa: {0}",
+    "Features.MiniMap.EnsureMiniMapActive.Description":  "Prisilite mini-mapu da bude dostupan, bez obzira na postavke servera.",
+    "Features.MiniMap.AllowCoordinatesOnHover.Description":  "Da li da pokažete koordinate kada lebdite iznad mini-mape.",
+    "Features.MiniMap.AllowMiniMapScrolling.Description":  "Izaberite da li igrač može da klikne i prevuče mini-mapu.",
+    "Features.MiniMap.MaximumZoomLevel":  "Maksimalni nivo zumiranja: {0}",
+    "Features.MiniMap.AllowMiniMapScrolling":  "Dozvolite pomeranje mini-mape: {0}",
+    "Features.MiniMap.MaximumZoomLevel.Description":  "Maksimalni nivo zumiranja mini-mape.",
+    "Features.MiniMap.AllowKeyBinding":  "Dozvoli vezivanje tastera: {0}",
+    "Features.MiniMap.MinimumZoomLevel.Description":  "Minimalni nivo zumiranja mini-mape.",
+    "Features.MiniMap.AllowCoordinatesOnHover":  "Dozvolite koordinatu na lebdenju: {0}",
+    "Features.MiniMap.AllowCoordinatesHud":  "Dozvoli koordinate HUD: {0}",
+    "Features.MiniMap.DefaultZoomLevel":  "Podrazumevani nivo zumiranja: {0}",
+    "Features.MiniMap.Description":  "Obezbeđuje opcije za ograničavanje korišćenja minimape.",
+    "Features.MiniMap.DefaultZoomLevel.Description":  "Podrazumevani nivo zumiranja mini-mape.",
+    "Features.MiniMap.AllowKeyBinding.Description":  "Izaberite da li igrači mogu da koriste podrazumevani \u0027V\u0027 ključ-vezivanje za koordinate HUD.",
+    "Features.MiniMap.MinimumZoomLevel":  "Minimalni nivo zumiranja: {0}",
+    "Features.MiniMap.AllowCoordinatesHud.Description":  "Omogućava opciju za igrača da uključi koordinate HUD u meniju podešavanja."
 }

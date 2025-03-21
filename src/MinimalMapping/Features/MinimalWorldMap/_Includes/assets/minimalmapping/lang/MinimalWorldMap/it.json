@@ -1,15 +1,13 @@
-{
-  "Features.WorldMap.Description": "Fornisce opzioni per limitare l'uso della mappa del mondo.",
-
-  "Features.WorldMap.AllowKeyBinding": "Permetti Assegnazione dei Tasti: {0}",
-  "Features.WorldMap.AllowKeyBinding.Description": "Scegli se i giocatori possono utilizzare l'assegnazione predefinita del tasto 'M' per la mappa del mondo.",
-
-  "Features.WorldMap.WipeWorldMapAtLogin": "Cancella la mappa del mondo al login: {0}",
-  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Cancella la mappa del mondo del giocatore quando effettua il login.",
-
-  "Features.WorldMap.WorldMapFogOfWarRadius": "Raggio della Nebbia di Guerra: {0} blocchi",
-  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Controlla la distanza, in blocchi, dal giocatore che la mappa del mondo rivelerà.",
-
-  "Features.WorldMap.WorldMapFogOfWarEnabled": "Nebbia di Guerra: {0}",
-  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "I giocatori potranno vedere la mappa del mondo solo entro un raggio stabilito attorno a loro."
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "Cancella la mappa del mondo del giocatore ogni volta che effettua l\u0027accesso.",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "Cancella la mappa del mondo all\u0027accesso: {0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "Nebbia di guerra: {0}",
+    "Features.WorldMap.Description":  "Fornisce opzioni per limitare l\u0027uso della mappa del mondo.",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "Controlla la distanza, in blocchi, dal giocatore che la mappa del mondo rivelerà.",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "I giocatori potranno vedere la mappa del mondo solo entro un determinato raggio intorno a loro.",
+    "Features.WorldMap.AllowKeyBinding":  "Consenti associazione tasti: {0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "Scegli se i giocatori possono utilizzare la combinazione di tasti \"M\" predefinita per la mappa del mondo.",
+    "Features.WorldMap.WipeWorldOnDeath":  "Cancella la mappa del mondo alla morte: {0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "Cancella la mappa del mondo del giocatore ogni volta che muore.",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "Raggio della nebbia di guerra: {0} pezzi"
 }

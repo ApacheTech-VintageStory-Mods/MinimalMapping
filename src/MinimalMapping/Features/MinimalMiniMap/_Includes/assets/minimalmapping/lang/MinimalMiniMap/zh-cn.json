@@ -1,27 +1,19 @@
-{
-  "Features.MiniMap.Description": "提供限制小地图使用的选项。",
-
-  "Features.MiniMap.AllowKeyBinding": "允许按键绑定: {0}",
-  "Features.MiniMap.AllowKeyBinding.Description": "选择玩家是否可以使用默认的“V”按键绑定来显示坐标HUD。",
-
-  "Features.MiniMap.AllowCoordinatesHud": "允许坐标HUD: {0}",
-  "Features.MiniMap.AllowCoordinatesHud.Description": "允许玩家在设置菜单中启用坐标HUD。",
-
-  "Features.MiniMap.AllowCoordinatesOnHover": "悬停时显示坐标: {0}",
-  "Features.MiniMap.AllowCoordinatesOnHover.Description": "是否在悬停在小地图上时显示坐标。",
-
-  "Features.MiniMap.AllowMiniMapScrolling": "允许小地图滚动: {0}",
-  "Features.MiniMap.AllowMiniMapScrolling.Description": "选择玩家是否可以点击并拖动小地图。",
-
-  "Features.MiniMap.MinimumZoomLevel": "最小缩放级别: {0}",
-  "Features.MiniMap.MinimumZoomLevel.Description": "小地图的最小缩放级别。",
-
-  "Features.MiniMap.DefaultZoomLevel": "默认缩放级别: {0}",
-  "Features.MiniMap.DefaultZoomLevel.Description": "小地图的默认缩放级别。",
-
-  "Features.MiniMap.MaximumZoomLevel": "最大缩放级别: {0}",
-  "Features.MiniMap.MaximumZoomLevel.Description": "小地图的最大缩放级别。",
-
-  "Features.MiniMap.EnsureMiniMapActive": "强制启用小地图: {0}",
-  "Features.MiniMap.EnsureMiniMapActive.Description": "强制启用小地图，无论服务器设置如何。"
+﻿{
+    "Features.MiniMap.EnsureMiniMapActive":  "原力小地图：{0}",
+    "Features.MiniMap.EnsureMiniMapActive.Description":  "强制小地图可用，而不管服务器设置如何。",
+    "Features.MiniMap.AllowCoordinatesOnHover.Description":  "将鼠标悬停在小地图上时是否显示坐标。",
+    "Features.MiniMap.AllowMiniMapScrolling.Description":  "选择玩家是否可以单击并拖动小地图。",
+    "Features.MiniMap.MaximumZoomLevel":  "最大缩放级别：{0}",
+    "Features.MiniMap.AllowMiniMapScrolling":  "允许小地图滚动：{0}",
+    "Features.MiniMap.MaximumZoomLevel.Description":  "小地图的最大缩放级别。",
+    "Features.MiniMap.AllowKeyBinding":  "允许键绑定：{0}",
+    "Features.MiniMap.MinimumZoomLevel.Description":  "小地图的最小缩放级别。",
+    "Features.MiniMap.AllowCoordinatesOnHover":  "Allow Co-ordinate On Hover（允许在悬停时坐标）：{0}",
+    "Features.MiniMap.AllowCoordinatesHud":  "允许坐标 HUD：{0}",
+    "Features.MiniMap.DefaultZoomLevel":  "默认缩放级别：{0}",
+    "Features.MiniMap.Description":  "提供用于限制小地图使用的选项。",
+    "Features.MiniMap.DefaultZoomLevel.Description":  "小地图的默认缩放级别。",
+    "Features.MiniMap.AllowKeyBinding.Description":  "选择玩家是否可以将默认的 \u0027V\u0027 键绑定用于坐标 HUD。",
+    "Features.MiniMap.MinimumZoomLevel":  "最小缩放级别：{0}",
+    "Features.MiniMap.AllowCoordinatesHud.Description":  "允许玩家在其设置菜单中打开坐标 HUD 的选项。"
 }

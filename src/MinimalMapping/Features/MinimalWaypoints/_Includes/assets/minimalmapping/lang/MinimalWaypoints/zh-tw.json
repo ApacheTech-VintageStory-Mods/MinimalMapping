@@ -1,0 +1,7 @@
+﻿{
+    "Features.Waypoints.Description":  "提供用於限制航點使用的選項。",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "登錄時擦除航點：{0}",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "每當玩家登錄時擦除玩家的航路點。",
+    "Features.Waypoints.AllowPinnedWaypoints.Description":  "確定玩家是否可以固定航點。",
+    "Features.Waypoints.AllowPinnedWaypoints":  "允許固定的航點：{0}"
+}

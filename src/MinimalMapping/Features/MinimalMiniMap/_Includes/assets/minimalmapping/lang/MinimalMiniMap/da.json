@@ -1,0 +1,19 @@
+﻿{
+    "Features.MiniMap.EnsureMiniMapActive":  "Tving minikort: {0}",
+    "Features.MiniMap.EnsureMiniMapActive.Description":  "Tving minikortet til at være tilgængeligt, uanset serverindstillinger.",
+    "Features.MiniMap.AllowCoordinatesOnHover.Description":  "Om koordinater skal vises eller ej, når du holder markøren over minikortet.",
+    "Features.MiniMap.AllowMiniMapScrolling.Description":  "Vælg, om spilleren kan klikke og trække minikortet.",
+    "Features.MiniMap.MaximumZoomLevel":  "Maks. zoomniveau: {0}",
+    "Features.MiniMap.AllowMiniMapScrolling":  "Tillad rulning af minikort: {0}",
+    "Features.MiniMap.MaximumZoomLevel.Description":  "Det maksimale zoomniveau for minikortet.",
+    "Features.MiniMap.AllowKeyBinding":  "Tillad nøglebinding: {0}",
+    "Features.MiniMap.MinimumZoomLevel.Description":  "Minikortets mindste zoomniveau.",
+    "Features.MiniMap.AllowCoordinatesOnHover":  "Tillad koordinat ved svæve: {0}",
+    "Features.MiniMap.AllowCoordinatesHud":  "Tillad koordinater HUD: {0}",
+    "Features.MiniMap.DefaultZoomLevel":  "Standard zoomniveau: {0}",
+    "Features.MiniMap.Description":  "Giver mulighed for at begrænse brugen af minikortet.",
+    "Features.MiniMap.DefaultZoomLevel.Description":  "Standardzoomniveauet for minikortet.",
+    "Features.MiniMap.AllowKeyBinding.Description":  "Vælg, om spillere kan bruge standard \u0027V\u0027-tastebinding til koordinaternes HUD.",
+    "Features.MiniMap.MinimumZoomLevel":  "Min. zoomniveau: {0}",
+    "Features.MiniMap.AllowCoordinatesHud.Description":  "Giver spilleren mulighed for at aktivere koordinaternes HUD i deres indstillingsmenu."
+}

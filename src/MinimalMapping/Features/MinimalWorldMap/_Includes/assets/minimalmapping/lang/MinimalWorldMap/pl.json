@@ -1,15 +1,13 @@
-{
-  "Features.WorldMap.Description": "Umożliwia ograniczenie korzystania z mapy świata.",
-
-  "Features.WorldMap.AllowKeyBinding": "Zezwól na przypisanie klawiszy: {0}",
-  "Features.WorldMap.AllowKeyBinding.Description": "Wybierz, czy gracze mogą używać domyślnego przypisania klawisza 'M' do mapy świata.",
-
-  "Features.WorldMap.WipeWorldMapAtLogin": "Wyczyść mapę świata przy logowaniu: {0}",
-  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Wyczyść mapę świata gracza przy każdym logowaniu.",
-
-  "Features.WorldMap.WorldMapFogOfWarRadius": "Zasięg Mgły Wojny: {0} kawałków",
-  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Kontroluj odległość w kawałkach, na jaką mapa świata będzie odkrywana wokół gracza.",
-
-  "Features.WorldMap.WorldMapFogOfWarEnabled": "Mgła Wojny: {0}",
-  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Gracze będą mogli widzieć mapę świata tylko w określonym promieniu wokół siebie."
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "Wyczyść mapę świata gracza za każdym razem, gdy się zaloguje.",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "Wyczyść mapę świata przy logowaniu: {0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "Mgła wojny: {0}",
+    "Features.WorldMap.Description":  "Udostępnia opcje ograniczające korzystanie z mapy świata.",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "Kontroluj odległość, w kawałkach, od gracza, którą ujawni mapa świata.",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "Gracze będą mogli zobaczyć mapę świata tylko w określonym promieniu wokół siebie.",
+    "Features.WorldMap.AllowKeyBinding":  "Zezwalaj na powiązanie: {0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "Wybierz, czy gracze mogą używać domyślnego przypisania \"M\" na mapie świata.",
+    "Features.WorldMap.WipeWorldOnDeath":  "Wyczyść mapę świata po śmierci: {0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "Wyczyść mapę świata gracza za każdym razem, gdy zginie.",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "Promień mgły wojny: {0} kawałki"
 }

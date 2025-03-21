@@ -1,27 +1,19 @@
-{
-  "Features.MiniMap.Description": "Erbjuder alternativ för att begränsa användningen av minimappen.",
-
-  "Features.MiniMap.AllowKeyBinding": "Tillåt tangentsbinding: {0}",
-  "Features.MiniMap.AllowKeyBinding.Description": "Välj om spelare kan använda standard 'V'-tangentsbindingen för koordinathud.",
-
-  "Features.MiniMap.AllowCoordinatesHud": "Tillåt koordinathud: {0}",
-  "Features.MiniMap.AllowCoordinatesHud.Description": "Tillåter spelaren att aktivera koordinathud i inställningsmenyn.",
-
-  "Features.MiniMap.AllowCoordinatesOnHover": "Tillåt koordinater vid hovring: {0}",
-  "Features.MiniMap.AllowCoordinatesOnHover.Description": "Om koordinater ska visas när man hovrar över minimappen.",
-
-  "Features.MiniMap.AllowMiniMapScrolling": "Tillåt minimappskrollning: {0}",
-  "Features.MiniMap.AllowMiniMapScrolling.Description": "Välj om spelaren kan klicka och dra minimappen.",
-
-  "Features.MiniMap.MinimumZoomLevel": "Min zoomnivå: {0}",
-  "Features.MiniMap.MinimumZoomLevel.Description": "Minimala zoomnivån för minimappen.",
-
-  "Features.MiniMap.DefaultZoomLevel": "Standard zoomnivå: {0}",
-  "Features.MiniMap.DefaultZoomLevel.Description": "Standard zoomnivå för minimappen.",
-
-  "Features.MiniMap.MaximumZoomLevel": "Max zoomnivå: {0}",
-  "Features.MiniMap.MaximumZoomLevel.Description": "Max zoomnivå för minimappen.",
-
-  "Features.MiniMap.EnsureMiniMapActive": "Tvinga minimappen: {0}",
-  "Features.MiniMap.EnsureMiniMapActive.Description": "Tvinga minimappen att vara tillgänglig oavsett serverinställningar."
+﻿{
+    "Features.MiniMap.EnsureMiniMapActive":  "Force mini-karta: {0}",
+    "Features.MiniMap.EnsureMiniMapActive.Description":  "Tvinga minikartan att vara tillgänglig, oavsett serverinställningar.",
+    "Features.MiniMap.AllowCoordinatesOnHover.Description":  "Om koordinater ska visas eller inte när du håller muspekaren över minikartan.",
+    "Features.MiniMap.AllowMiniMapScrolling.Description":  "Välj om spelaren kan klicka och dra minikartan.",
+    "Features.MiniMap.MaximumZoomLevel":  "Max zoomnivå: {0}",
+    "Features.MiniMap.AllowMiniMapScrolling":  "Tillåt rullning av minikartan: {0}",
+    "Features.MiniMap.MaximumZoomLevel.Description":  "Den maximala zoomnivån för minikartan.",
+    "Features.MiniMap.AllowKeyBinding":  "Tillåt tangentbindning: {0}",
+    "Features.MiniMap.MinimumZoomLevel.Description":  "Den lägsta zoomnivån för minikartan.",
+    "Features.MiniMap.AllowCoordinatesOnHover":  "Tillåt koordinat vid hovring: {0}",
+    "Features.MiniMap.AllowCoordinatesHud":  "Tillåt koordinater HUD: {0}",
+    "Features.MiniMap.DefaultZoomLevel":  "Standardzoomnivå: {0}",
+    "Features.MiniMap.Description":  "Ger alternativ för att begränsa användningen av minikartan.",
+    "Features.MiniMap.DefaultZoomLevel.Description":  "Standardzoomnivån för minikartan.",
+    "Features.MiniMap.AllowKeyBinding.Description":  "Välj om spelare kan använda standardtangentbindningen \"V\" för koordinaternas HUD.",
+    "Features.MiniMap.MinimumZoomLevel":  "Minsta zoomnivå: {0}",
+    "Features.MiniMap.AllowCoordinatesHud.Description":  "Tillåter spelaren att slå på koordinaternas HUD i sin inställningsmeny."
 }

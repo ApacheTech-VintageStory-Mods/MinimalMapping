@@ -1,15 +1,13 @@
-{
-  "Features.WorldMap.Description": "ワールドマップの使用を制限するためのオプションを提供します。",
-
-  "Features.WorldMap.AllowKeyBinding": "キー設定を許可する: {0}",
-  "Features.WorldMap.AllowKeyBinding.Description": "プレイヤーがワールドマップのデフォルトの「M」キー設定を使用できるかどうかを選択します。",
-
-  "Features.WorldMap.WipeWorldMapAtLogin": "ログイン時にワールドマップを消去: {0}",
-  "Features.WorldMap.WipeWorldMapAtLogin.Description": "プレイヤーがログインするたびにワールドマップを消去します。",
-
-  "Features.WorldMap.WorldMapFogOfWarRadius": "戦争の霧の半径: {0} チャンク",
-  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "プレイヤーから何チャンク離れたところまでワールドマップが表示されるかを制御します。",
-
-  "Features.WorldMap.WorldMapFogOfWarEnabled": "戦争の霧: {0}",
-  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "プレイヤーは自分の周囲の限られた範囲のワールドマップのみを見ることができます。"
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "プレイヤーがログインするたびに、プレイヤーのワールドマップをワイプします。",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "ログイン時に世界地図をワイプ:{0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "戦場の霧:{0}",
+    "Features.WorldMap.Description":  "ワールドマップの使用を制限するためのオプションを提供します。",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "ワールドマップが公開するプレイヤーからの距離をチャンク単位で制御します。",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "プレイヤーは、自分の周りの設定された半径内でのみワールドマップを見ることができます。",
+    "Features.WorldMap.AllowKeyBinding":  "キーバインディングを許可: {0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "プレイヤーがワールドマップのデフォルトの「M」キーバインディングを使用できるかどうかを選択します。",
+    "Features.WorldMap.WipeWorldOnDeath":  "死の世界の地図をワイプ:{0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "プレイヤーが死ぬたびにプレイヤーの世界地図を消去します。",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "戦場の霧の半径:{0}チャンク"
 }

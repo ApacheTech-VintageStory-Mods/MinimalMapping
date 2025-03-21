@@ -1,15 +1,13 @@
-{
-  "Features.WorldMap.Description": "Poskytuje možnosti na obmedzenie používania svetovej mapy.",
-
-  "Features.WorldMap.AllowKeyBinding": "Povoliť priradenie kláves: {0}",
-  "Features.WorldMap.AllowKeyBinding.Description": "Vyberte, či môžu hráči použiť predvolenú klávesovú skratku 'M' pre svetovú mapu.",
-
-  "Features.WorldMap.WipeWorldMapAtLogin": "Vymazať mapu sveta pri prihlásení: {0}",
-  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Vymažte mapu sveta hráča pri každom prihlásení.",
-
-  "Features.WorldMap.WorldMapFogOfWarRadius": "Polomer Mlieka vojny: {0} kúskov",
-  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Ovládajte vzdialenosť, v kúskach, od hráča, ktorú mapa sveta odhalí.",
-
-  "Features.WorldMap.WorldMapFogOfWarEnabled": "Mlieko vojny: {0}",
-  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Hráči budú môcť vidieť mapu sveta len v určenej vzdialenosti okolo seba."
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "Vymažte mapu sveta hráča vždy, keď sa prihlási.",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "Vymazať mapu sveta pri prihlásení: {0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "Hmla vojny: {0}",
+    "Features.WorldMap.Description":  "Poskytuje možnosti obmedzenia používania mapy sveta.",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "Ovládajte vzdialenosť po častiach od hráča, ktorý mapa sveta odhalí.",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "Hráči budú môcť vidieť mapu sveta iba v stanovenom okruhu okolo seba.",
+    "Features.WorldMap.AllowKeyBinding":  "Povoliť viazanie klávesov: {0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "Vyberte, či hráči môžu použiť predvolenú klávesovú skratku \"M\" pre mapu sveta.",
+    "Features.WorldMap.WipeWorldOnDeath":  "Vymazať mapu sveta po smrti: {0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "Vždy, keď zomrie, vymažte mapu sveta hráča.",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "Polomer hmly vojny: {0} kusov"
 }

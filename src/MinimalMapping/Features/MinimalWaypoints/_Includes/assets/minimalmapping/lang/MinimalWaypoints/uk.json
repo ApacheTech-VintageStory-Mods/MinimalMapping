@@ -1,9 +1,7 @@
-{
-  "Features.Waypoints.Description": "Надає варіанти для обмеження використання шляхових точок.",
-
-  "Features.Waypoints.AllowPinnedWaypoints": "Дозволити Закріплені Шляхові Точки: {0}",
-  "Features.Waypoints.AllowPinnedWaypoints.Description": "Визначає, чи можуть гравці закріплювати шляхові точки.",
-
-  "Features.Waypoints.WipeWaypointsAtLogin": "Стерти контрольні точки при вході: {0}",
-  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Стирати контрольні точки гравця кожного разу, коли вони входять у гру."
+﻿{
+    "Features.Waypoints.Description":  "Надає опції для обмеження використання маршрутних точок.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Стирання маршрутних точок при вході в систему: {0}",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Стирайте маршрутні точки гравця щоразу, коли він входить у систему.",
+    "Features.Waypoints.AllowPinnedWaypoints.Description":  "Визначає, чи можуть гравці закріплювати маршрутні точки.",
+    "Features.Waypoints.AllowPinnedWaypoints":  "Дозволити закріплені маршрутні точки: {0}"
 }

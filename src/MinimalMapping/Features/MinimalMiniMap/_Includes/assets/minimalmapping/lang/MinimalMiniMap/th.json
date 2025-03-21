@@ -1,0 +1,19 @@
+﻿{
+    "Features.MiniMap.EnsureMiniMapActive":  "แผนที่ขนาดเล็กของกองทัพ: {0}",
+    "Features.MiniMap.EnsureMiniMapActive.Description":  "บังคับให้แผนที่ขนาดเล็กพร้อมใช้งานโดยไม่คํานึงถึงการตั้งค่าเซิร์ฟเวอร์",
+    "Features.MiniMap.AllowCoordinatesOnHover.Description":  "ไม่ว่าจะแสดงพิกัดหรือไม่เมื่อวางเมาส์เหนือแผนที่ขนาดเล็ก",
+    "Features.MiniMap.AllowMiniMapScrolling.Description":  "เลือกว่าผู้เล่นสามารถคลิกและลากแผนที่ขนาดเล็กได้หรือไม่",
+    "Features.MiniMap.MaximumZoomLevel":  "ระดับการซูมสูงสุด: {0}",
+    "Features.MiniMap.AllowMiniMapScrolling":  "อนุญาตการเลื่อนแผนที่ขนาดเล็ก: {0}",
+    "Features.MiniMap.MaximumZoomLevel.Description":  "ระดับการซูมสูงสุดของแผนที่ย่อ",
+    "Features.MiniMap.AllowKeyBinding":  "อนุญาตการผูกคีย์: {0}",
+    "Features.MiniMap.MinimumZoomLevel.Description":  "ระดับการซูมขั้นต่ําของแผนที่ย่อ",
+    "Features.MiniMap.AllowCoordinatesOnHover":  "อนุญาตพิกัดเมื่อวางเมาส์เหนือ: {0}",
+    "Features.MiniMap.AllowCoordinatesHud":  "อนุญาตพิกัด HUD: {0}",
+    "Features.MiniMap.DefaultZoomLevel":  "ระดับการซูมเริ่มต้น: {0}",
+    "Features.MiniMap.Description":  "มีตัวเลือกสําหรับการจํากัดการใช้แผนที่ย่อ",
+    "Features.MiniMap.DefaultZoomLevel.Description":  "ระดับการซูมเริ่มต้นของแผนที่ย่อ",
+    "Features.MiniMap.AllowKeyBinding.Description":  "เลือกว่าผู้เล่นสามารถใช้การผูกคีย์ \u0027V\u0027 เริ่มต้นสําหรับ HUD พิกัดได้หรือไม่",
+    "Features.MiniMap.MinimumZoomLevel":  "ระดับการซูมขั้นต่ํา: {0}",
+    "Features.MiniMap.AllowCoordinatesHud.Description":  "อนุญาตให้ผู้เล่นมีตัวเลือกในการเปิดพิกัด HUD ภายในเมนูการตั้งค่า"
+}

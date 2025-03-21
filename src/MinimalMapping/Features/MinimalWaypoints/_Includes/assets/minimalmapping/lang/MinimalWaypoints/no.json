@@ -1,0 +1,7 @@
+﻿{
+    "Features.Waypoints.Description":  "Gir alternativer for å begrense bruken av veipunkter.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Tørk veipunkter ved pålogging: {0}",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Tørk spillerens veipunkter når de logger på.",
+    "Features.Waypoints.AllowPinnedWaypoints.Description":  "Avgjør om spillere kan feste veipunkter.",
+    "Features.Waypoints.AllowPinnedWaypoints":  "Tillat festede veipunkter: {0}"
+}

@@ -1,0 +1,7 @@
+﻿{
+    "Features.Waypoints.Description":  "Giver mulighed for at begrænse brugen af waypoints.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Tør waypoints ved login: {0}",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Slet spillerens waypoints, når de logger ind.",
+    "Features.Waypoints.AllowPinnedWaypoints.Description":  "Bestemmer, om spillere kan fastgøre waypoints.",
+    "Features.Waypoints.AllowPinnedWaypoints":  "Tillad fastgjorte waypoints: {0}"
+}

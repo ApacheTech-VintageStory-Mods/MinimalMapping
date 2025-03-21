@@ -28,7 +28,7 @@ internal class MinimalMiniMapClientPatches
         }
         catch (Exception ex)
         {
-            ApiEx.Logger.Error(ex);
+            G.Logger.Error(ex);
         }
     }
 

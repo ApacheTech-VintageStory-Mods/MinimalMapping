@@ -1,9 +1,7 @@
-{
-  "Features.Waypoints.Description": "Fornece opções para restringir o uso de pontos de passagem.",
-
-  "Features.Waypoints.AllowPinnedWaypoints": "Permitir Pontos de Passagem Fixados: {0}",
-  "Features.Waypoints.AllowPinnedWaypoints.Description": "Determina se os jogadores podem fixar pontos de passagem.",
-
-  "Features.Waypoints.WipeWaypointsAtLogin": "Limpar pontos de passagem ao iniciar sessão: {0}",
-  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Limpe os pontos de passagem do jogador sempre que ele iniciar sessão."
+﻿{
+    "Features.Waypoints.Description":  "Fornece opções para restringir o uso de waypoints.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Limpe os Waypoints no login: {0}",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Limpe os waypoints do jogador sempre que ele fizer login.",
+    "Features.Waypoints.AllowPinnedWaypoints.Description":  "Determina se os jogadores podem fixar waypoints.",
+    "Features.Waypoints.AllowPinnedWaypoints":  "Permitir pontos de passagem fixos: {0}"
 }

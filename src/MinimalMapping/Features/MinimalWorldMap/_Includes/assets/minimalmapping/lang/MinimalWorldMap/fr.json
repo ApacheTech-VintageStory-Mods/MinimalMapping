@@ -1,15 +1,13 @@
-{
-  "Features.WorldMap.Description": "Fournit des options pour restreindre l'utilisation de la carte du monde.",
-
-  "Features.WorldMap.AllowKeyBinding": "Autoriser le Raccourci Clavier: {0}",
-  "Features.WorldMap.AllowKeyBinding.Description": "Choisissez si les joueurs peuvent utiliser le raccourci par défaut 'M' pour la carte du monde.",
-
-  "Features.WorldMap.WipeWorldMapAtLogin": "Effacer la carte du monde à la connexion: {0}",
-  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Effacez la carte du monde du joueur lorsqu'il se connecte.",
-
-  "Features.WorldMap.WorldMapFogOfWarRadius": "Rayon du brouillard de guerre: {0} morceaux",
-  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Contrôlez la distance, en morceaux, autour du joueur que la carte du monde révélera.",
-
-  "Features.WorldMap.WorldMapFogOfWarEnabled": "Brouillard de guerre: {0}",
-  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Les joueurs ne pourront voir la carte du monde que dans un rayon défini autour d'eux."
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "Effacez la carte du monde du joueur à chaque fois qu’il se connecte.",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "Effacer la carte du monde lors de la connexion : {0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "Brouillard de guerre : {0}",
+    "Features.WorldMap.Description":  "Fournit des options pour restreindre l’utilisation de la carte du monde.",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "Contrôlez la distance, par morceaux, qui vous sépare du joueur que la carte du monde révèle.",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "Les joueurs ne pourront voir la carte du monde que dans un rayon défini autour d’eux.",
+    "Features.WorldMap.AllowKeyBinding":  "Autoriser la liaison de touches : {0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "Choisissez si les joueurs peuvent utiliser la combinaison de touches « M » par défaut pour la carte du monde.",
+    "Features.WorldMap.WipeWorldOnDeath":  "Effacer la carte du monde à la mort : {0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "Effacez la carte du monde du joueur à chaque fois qu’il meurt.",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "Fog Of War Radius : {0} morceaux"
 }

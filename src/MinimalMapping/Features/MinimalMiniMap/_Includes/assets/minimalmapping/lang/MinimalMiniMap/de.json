@@ -1,27 +1,19 @@
-{
-  "Features.MiniMap.Description": "Bietet Optionen zur Einschränkung der Nutzung der Minikarte.",
-
-  "Features.MiniMap.AllowKeyBinding": "Tastenzuweisung erlauben: {0}",
-  "Features.MiniMap.AllowKeyBinding.Description": "Wählen Sie, ob Spieler die Standard-Tastenzuweisung 'V' für das Koordinaten-HUD verwenden können.",
-
-  "Features.MiniMap.AllowCoordinatesHud": "Koordinaten-HUD erlauben: {0}",
-  "Features.MiniMap.AllowCoordinatesHud.Description": "Ermöglicht dem Spieler, das Koordinaten-HUD im Einstellungsmenü zu aktivieren.",
-
-  "Features.MiniMap.AllowCoordinatesOnHover": "Koordinaten beim Hovern anzeigen: {0}",
-  "Features.MiniMap.AllowCoordinatesOnHover.Description": "Ob Koordinaten beim Überfahren der Minikarte angezeigt werden sollen oder nicht.",
-
-  "Features.MiniMap.AllowMiniMapScrolling": "Scrollen der Minikarte erlauben: {0}",
-  "Features.MiniMap.AllowMiniMapScrolling.Description": "Wählen Sie, ob der Spieler die Minikarte anklicken und ziehen kann.",
-
-  "Features.MiniMap.MinimumZoomLevel": "Minimale Zoomstufe: {0}",
-  "Features.MiniMap.MinimumZoomLevel.Description": "Die minimale Zoomstufe der Minikarte.",
-
-  "Features.MiniMap.DefaultZoomLevel": "Standard-Zoomstufe: {0}",
-  "Features.MiniMap.DefaultZoomLevel.Description": "Die Standard-Zoomstufe der Minikarte.",
-
-  "Features.MiniMap.MaximumZoomLevel": "Maximale Zoomstufe: {0}",
-  "Features.MiniMap.MaximumZoomLevel.Description": "Die maximale Zoomstufe der Minikarte.",
-
-  "Features.MiniMap.EnsureMiniMapActive": "Minikarte erzwingen: {0}",
-  "Features.MiniMap.EnsureMiniMapActive.Description": "Erzwingen Sie die Verfügbarkeit der Minikarte, unabhängig von den Servereinstellungen."
+﻿{
+    "Features.MiniMap.EnsureMiniMapActive":  "Force Mini-Karte: {0}",
+    "Features.MiniMap.EnsureMiniMapActive.Description":  "Erzwingen Sie, dass die Minikarte unabhängig von den Servereinstellungen verfügbar ist.",
+    "Features.MiniMap.AllowCoordinatesOnHover.Description":  "Gibt an, ob Koordinaten angezeigt werden sollen, wenn der Mauszeiger über die Minikarte bewegt wird.",
+    "Features.MiniMap.AllowMiniMapScrolling.Description":  "Wählen Sie aus, ob der Spieler auf die Minikarte klicken und sie ziehen kann.",
+    "Features.MiniMap.MaximumZoomLevel":  "Maximale Zoomstufe: {0}",
+    "Features.MiniMap.AllowMiniMapScrolling":  "Scrollen auf der Minikarte erlauben: {0}",
+    "Features.MiniMap.MaximumZoomLevel.Description":  "Die maximale Zoomstufe der Minikarte.",
+    "Features.MiniMap.AllowKeyBinding":  "Tastenbelegung zulassen: {0}",
+    "Features.MiniMap.MinimumZoomLevel.Description":  "Die minimale Zoomstufe der Minikarte.",
+    "Features.MiniMap.AllowCoordinatesOnHover":  "Koordinaten beim Schweben zulassen: {0}",
+    "Features.MiniMap.AllowCoordinatesHud":  "HUD für Koordinaten zulassen: {0}",
+    "Features.MiniMap.DefaultZoomLevel":  "Standardmäßige Zoomstufe: {0}",
+    "Features.MiniMap.Description":  "Bietet Optionen zum Einschränken der Nutzung der Minikarte.",
+    "Features.MiniMap.DefaultZoomLevel.Description":  "Die standardmäßige Zoomstufe der Minikarte.",
+    "Features.MiniMap.AllowKeyBinding.Description":  "Wählt aus, ob Spieler die Standard-Tastenkombination \"V\" für das Koordinaten-HUD verwenden können.",
+    "Features.MiniMap.MinimumZoomLevel":  "Min. Zoomstufe: {0}",
+    "Features.MiniMap.AllowCoordinatesHud.Description":  "Ermöglicht dem Spieler die Möglichkeit, das Koordinaten-HUD in seinem Einstellungsmenü zu aktivieren."
 }

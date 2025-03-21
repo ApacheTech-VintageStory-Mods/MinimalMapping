@@ -1,15 +1,13 @@
-{
-  "Features.WorldMap.Description": "Bietet Optionen zur Einschränkung der Nutzung der Weltkarte.",
-
-  "Features.WorldMap.AllowKeyBinding": "Tastenzuweisung erlauben: {0}",
-  "Features.WorldMap.AllowKeyBinding.Description": "Wählen Sie, ob Spieler die Standard-Tastenkombination 'M' für die Weltkarte verwenden können.",
-
-  "Features.WorldMap.WipeWorldMapAtLogin": "Weltkarte beim Einloggen löschen: {0}",
-  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Löschen Sie die Weltkarte des Spielers bei jedem Einloggen.",
-
-  "Features.WorldMap.WorldMapFogOfWarRadius": "Nebel des Krieges Radius: {0} Abschnitte",
-  "Features.WorldMap.WorldMapFogOfWarRadius.Description": "Steuern Sie die Entfernung, in Abschnitten, die die Weltkarte vom Spieler aufdeckt.",
-
-  "Features.WorldMap.WorldMapFogOfWarEnabled": "Nebel des Krieges: {0}",
-  "Features.WorldMap.WorldMapFogOfWarEnabled.Description": "Die Spieler können nur die Weltkarte innerhalb eines festgelegten Radius um sie herum sehen."
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "Wische die Weltkarte des Spielers, wenn er sich einloggt.",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "Wischen Sie die Weltkarte beim Login: {0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "Nebel des Krieges: {0}",
+    "Features.WorldMap.Description":  "Bietet Optionen zum Einschränken der Verwendung der Weltkarte.",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "Kontrolliere die Entfernung, in Stücken, weg vom Spieler, die die Weltkarte enthüllt.",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "Spieler können die Weltkarte nur in einem festgelegten Radius um sich herum sehen.",
+    "Features.WorldMap.AllowKeyBinding":  "Tastenbelegung zulassen: {0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "Wähle aus, ob Spieler die Standard-Tastenkombination \"M\" für die Weltkarte verwenden können.",
+    "Features.WorldMap.WipeWorldOnDeath":  "Wipe World Map On Death: {0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "Wische die Weltkarte des Spielers, wenn er stirbt.",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "Nebel des Krieges Radius: {0} Brocken"
 }

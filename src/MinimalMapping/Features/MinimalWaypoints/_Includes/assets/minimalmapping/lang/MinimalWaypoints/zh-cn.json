@@ -1,9 +1,7 @@
-{
-  "Features.Waypoints.Description": "提供限制路标使用的选项。",
-
-  "Features.Waypoints.AllowPinnedWaypoints": "允许固定路标：{0}",
-  "Features.Waypoints.AllowPinnedWaypoints.Description": "确定玩家是否可以固定路标。",
-
-  "Features.Waypoints.WipeWaypointsAtLogin": "登录时清除路标: {0}",
-  "Features.Waypoints.WipeWaypointsAtLogin.Description": "每次玩家登录时清除他们的路标。"
+﻿{
+    "Features.Waypoints.Description":  "提供用于限制航点使用的选项。",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "登录时擦除航点：{0}",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "每当玩家登录时擦除玩家的航路点。",
+    "Features.Waypoints.AllowPinnedWaypoints.Description":  "确定玩家是否可以固定航点。",
+    "Features.Waypoints.AllowPinnedWaypoints":  "允许固定的航点：{0}"
 }

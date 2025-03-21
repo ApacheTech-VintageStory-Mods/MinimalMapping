@@ -1,0 +1,13 @@
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "Tørk spillerens verdenskart når de logger på.",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "Tørk verdenskartet ved pålogging: {0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "Krigens tåke: {0}",
+    "Features.WorldMap.Description":  "Gir alternativer for å begrense bruken av verdenskartet.",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "Kontroller avstanden, i biter, vekk fra spilleren verdenskartet vil avsløre.",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "Spillere vil bare kunne se verdenskartet innenfor en bestemt radius rundt dem.",
+    "Features.WorldMap.AllowKeyBinding":  "Tillat nøkkelbinding: {0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "Velg om spillere kan bruke standard \u0027M\u0027-tastebinding for verdenskartet.",
+    "Features.WorldMap.WipeWorldOnDeath":  "Tørk verdenskartet ved døden: {0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "Tørk spillerens verdenskart når de dør.",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "Fog Of War Radius: {0} biter"
+}

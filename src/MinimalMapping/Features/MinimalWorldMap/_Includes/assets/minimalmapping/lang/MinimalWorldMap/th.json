@@ -1,0 +1,13 @@
+﻿{
+    "Features.WorldMap.WipeWorldMapAtLogin.Description":  "ล้างแผนที่โลกของผู้เล่นทุกครั้งที่พวกเขาเข้าสู่ระบบ",
+    "Features.WorldMap.WipeWorldMapAtLogin":  "ล้างแผนที่โลกเมื่อเข้าสู่ระบบ: {0}",
+    "Features.WorldMap.WorldMapFogOfWarEnabled":  "หมอกแห่งสงคราม: {0}",
+    "Features.WorldMap.Description":  "มีตัวเลือกสําหรับการจํากัดการใช้แผนที่โลก",
+    "Features.WorldMap.WorldMapFogOfWarRadius.Description":  "ควบคุมระยะทางเป็นชิ้น ๆ ห่างจากผู้เล่นที่แผนที่โลกจะเปิดเผย",
+    "Features.WorldMap.WorldMapFogOfWarEnabled.Description":  "ผู้เล่นจะสามารถเห็นแผนที่โลกภายในรัศมีที่กําหนดไว้รอบตัวพวกเขาเท่านั้น",
+    "Features.WorldMap.AllowKeyBinding":  "อนุญาตการผูกคีย์: {0}",
+    "Features.WorldMap.AllowKeyBinding.Description":  "เลือกว่าผู้เล่นสามารถใช้การผูกแป้น \u0027M\u0027 เริ่มต้นสําหรับแผนที่โลกได้หรือไม่",
+    "Features.WorldMap.WipeWorldOnDeath":  "ล้างแผนที่โลกเมื่อตาย: {0}",
+    "Features.WorldMap.WipeWorldOnDeath.Description":  "ล้างแผนที่โลกของผู้เล่นทุกครั้งที่พวกเขาตาย",
+    "Features.WorldMap.WorldMapFogOfWarRadius":  "รัศมีหมอกแห่งสงคราม: {0} ก้อน"
+}

@@ -1,27 +1,19 @@
-{
-  "Features.MiniMap.Description": "Poskytuje možnosti pro omezení použití minimapy.",
-
-  "Features.MiniMap.AllowKeyBinding": "Povolit přiřazení kláves: {0}",
-  "Features.MiniMap.AllowKeyBinding.Description": "Zvolte, zda hráči mohou použít výchozí přiřazení klávesy 'V' pro zobrazení souřadnic.",
-
-  "Features.MiniMap.AllowCoordinatesHud": "Povolit zobrazení souřadnic: {0}",
-  "Features.MiniMap.AllowCoordinatesHud.Description": "Umožňuje hráči zapnout zobrazení souřadnic v nabídce nastavení.",
-
-  "Features.MiniMap.AllowCoordinatesOnHover": "Povolit zobrazení souřadnic při přejetí: {0}",
-  "Features.MiniMap.AllowCoordinatesOnHover.Description": "Zda zobrazit souřadnice při přejetí nad minimapou.",
-
-  "Features.MiniMap.AllowMiniMapScrolling": "Povolit posouvání minimapy: {0}",
-  "Features.MiniMap.AllowMiniMapScrolling.Description": "Zvolte, zda hráč může kliknout a táhnout minimapu.",
-
-  "Features.MiniMap.MinimumZoomLevel": "Minimální úroveň přiblížení: {0}",
-  "Features.MiniMap.MinimumZoomLevel.Description": "Minimální úroveň přiblížení minimapy.",
-
-  "Features.MiniMap.DefaultZoomLevel": "Výchozí úroveň přiblížení: {0}",
-  "Features.MiniMap.DefaultZoomLevel.Description": "Výchozí úroveň přiblížení minimapy.",
-
-  "Features.MiniMap.MaximumZoomLevel": "Maximální úroveň přiblížení: {0}",
-  "Features.MiniMap.MaximumZoomLevel.Description": "Maximální úroveň přiblížení minimapy.",
-
-  "Features.MiniMap.EnsureMiniMapActive": "Vynutit minimapu: {0}",
-  "Features.MiniMap.EnsureMiniMapActive.Description": "Vynutit, aby byla minimapa dostupná, bez ohledu na nastavení serveru."
+﻿{
+    "Features.MiniMap.EnsureMiniMapActive":  "Síla Mini-Mapa: {0}",
+    "Features.MiniMap.EnsureMiniMapActive.Description":  "Vynutí, aby byla minimapa dostupná bez ohledu na nastavení serveru.",
+    "Features.MiniMap.AllowCoordinatesOnHover.Description":  "Zda se mají při najetí myší na minimapu zobrazovat souřadnice.",
+    "Features.MiniMap.AllowMiniMapScrolling.Description":  "Zvolte, zda hráč může kliknout a přetáhnout minimapu.",
+    "Features.MiniMap.MaximumZoomLevel":  "Maximální úroveň přiblížení: {0}",
+    "Features.MiniMap.AllowMiniMapScrolling":  "Povolit posouvání minimapy: {0}",
+    "Features.MiniMap.MaximumZoomLevel.Description":  "Maximální úroveň přiblížení minimapy.",
+    "Features.MiniMap.AllowKeyBinding":  "Povolit vazbu kláves: {0}",
+    "Features.MiniMap.MinimumZoomLevel.Description":  "Minimální úroveň přiblížení minimapy.",
+    "Features.MiniMap.AllowCoordinatesOnHover":  "Povolit souřadnice při najetí myší: {0}",
+    "Features.MiniMap.AllowCoordinatesHud":  "Povolit souřadnice HUD: {0}",
+    "Features.MiniMap.DefaultZoomLevel":  "Výchozí úroveň přiblížení: {0}",
+    "Features.MiniMap.Description":  "Poskytuje možnosti pro omezení použití minimapy.",
+    "Features.MiniMap.DefaultZoomLevel.Description":  "Výchozí úroveň přiblížení minimapy.",
+    "Features.MiniMap.AllowKeyBinding.Description":  "Zvolte, zda hráči mohou použít výchozí klávesovou zkratku \"V\" pro souřadnicový HUD.",
+    "Features.MiniMap.MinimumZoomLevel":  "Minimální úroveň zoomu: {0}",
+    "Features.MiniMap.AllowCoordinatesHud.Description":  "Umožňuje hráči zapnout HUD souřadnic v nabídce nastavení."
 }

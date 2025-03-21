@@ -1,0 +1,19 @@
+﻿{
+    "Features.MiniMap.EnsureMiniMapActive":  "Force Mini-Map: {0}",
+    "Features.MiniMap.EnsureMiniMapActive.Description":  "Þvingaðu smákortið til að vera tiltækt, óháð stillingum netþjóns.",
+    "Features.MiniMap.AllowCoordinatesOnHover.Description":  "Hvort eigi að sýna hnit eða ekki þegar þú sveimar yfir smákortið.",
+    "Features.MiniMap.AllowMiniMapScrolling.Description":  "Veldu hvort spilarinn geti smellt og dregið smákortið.",
+    "Features.MiniMap.MaximumZoomLevel":  "Hámarks aðdráttarstig: {0}",
+    "Features.MiniMap.AllowMiniMapScrolling":  "Leyfa smákortaflettingu: {0}",
+    "Features.MiniMap.MaximumZoomLevel.Description":  "Hámarks aðdráttarstig smákortsins.",
+    "Features.MiniMap.AllowKeyBinding":  "Leyfa lyklabindingu: {0}",
+    "Features.MiniMap.MinimumZoomLevel.Description":  "Lágmarks aðdráttarstig smákortsins.",
+    "Features.MiniMap.AllowCoordinatesOnHover":  "Leyfa hnit við sveima: {0}",
+    "Features.MiniMap.AllowCoordinatesHud":  "Leyfa hnit HUD: {0}",
+    "Features.MiniMap.DefaultZoomLevel":  "Sjálfgefið aðdráttarstig: {0}",
+    "Features.MiniMap.Description":  "Býður upp á valkosti til að takmarka notkun smákortsins.",
+    "Features.MiniMap.DefaultZoomLevel.Description":  "Sjálfgefið aðdráttarstig smákortsins.",
+    "Features.MiniMap.AllowKeyBinding.Description":  "Veldu hvort leikmenn geti notað sjálfgefna \u0027V\u0027 lyklabindingu fyrir hnitin HUD.",
+    "Features.MiniMap.MinimumZoomLevel":  "Lágmarks aðdráttarstig: {0}",
+    "Features.MiniMap.AllowCoordinatesHud.Description":  "Leyfir spilaranum að kveikja á hnitunum HUD í stillingavalmyndinni."
+}

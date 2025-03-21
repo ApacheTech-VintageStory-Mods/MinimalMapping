@@ -1,27 +1,19 @@
-{
-  "Features.MiniMap.Description": "Zapewnia opcje ograniczenia użycia minimapy.",
-
-  "Features.MiniMap.AllowKeyBinding": "Zezwól na przypisanie klawiszy: {0}",
-  "Features.MiniMap.AllowKeyBinding.Description": "Wybierz, czy gracze mogą używać domyślnego przypisania klawiszy 'V' do HUD koordynat.",
-
-  "Features.MiniMap.AllowCoordinatesHud": "Zezwól na HUD koordynat: {0}",
-  "Features.MiniMap.AllowCoordinatesHud.Description": "Pozwala graczowi włączyć HUD koordynat w menu ustawień.",
-
-  "Features.MiniMap.AllowCoordinatesOnHover": "Pokaż koordynaty przy najechaniu: {0}",
-  "Features.MiniMap.AllowCoordinatesOnHover.Description": "Czy pokazywać koordynaty po najechaniu na minimapę.",
-
-  "Features.MiniMap.AllowMiniMapScrolling": "Zezwól na przewijanie minimapy: {0}",
-  "Features.MiniMap.AllowMiniMapScrolling.Description": "Wybierz, czy gracz może klikać i przeciągać minimapę.",
-
-  "Features.MiniMap.MinimumZoomLevel": "Minimalny poziom zoomu: {0}",
-  "Features.MiniMap.MinimumZoomLevel.Description": "Minimalny poziom zoomu minimapy.",
-
-  "Features.MiniMap.DefaultZoomLevel": "Domyślny poziom zoomu: {0}",
-  "Features.MiniMap.DefaultZoomLevel.Description": "Domyślny poziom zoomu minimapy.",
-
-  "Features.MiniMap.MaximumZoomLevel": "Maksymalny poziom zoomu: {0}",
-  "Features.MiniMap.MaximumZoomLevel.Description": "Maksymalny poziom zoomu minimapy.",
-
-  "Features.MiniMap.EnsureMiniMapActive": "Wymuś minimapę: {0}",
-  "Features.MiniMap.EnsureMiniMapActive.Description": "Wymuś dostępność minimapy, niezależnie od ustawień serwera."
+﻿{
+    "Features.MiniMap.EnsureMiniMapActive":  "Wymuś minimapę: {0}",
+    "Features.MiniMap.EnsureMiniMapActive.Description":  "Wymuś dostępność minimapy, niezależnie od ustawień serwera.",
+    "Features.MiniMap.AllowCoordinatesOnHover.Description":  "Określa, czy współrzędne mają być wyświetlane po najechaniu kursorem na minimapę.",
+    "Features.MiniMap.AllowMiniMapScrolling.Description":  "Wybierz, czy gracz może kliknąć i przeciągnąć minimapę.",
+    "Features.MiniMap.MaximumZoomLevel":  "Maksymalny poziom powiększenia: {0}",
+    "Features.MiniMap.AllowMiniMapScrolling":  "Zezwalaj na przewijanie minimapy: {0}",
+    "Features.MiniMap.MaximumZoomLevel.Description":  "Maksymalny poziom powiększenia minimapy.",
+    "Features.MiniMap.AllowKeyBinding":  "Zezwalaj na powiązanie: {0}",
+    "Features.MiniMap.MinimumZoomLevel.Description":  "Minimalny poziom powiększenia minimapy.",
+    "Features.MiniMap.AllowCoordinatesOnHover":  "Zezwalaj na współrzędne po najechaniu kursorem: {0}",
+    "Features.MiniMap.AllowCoordinatesHud":  "Zezwalaj na współrzędne HUD: {0}",
+    "Features.MiniMap.DefaultZoomLevel":  "Domyślny poziom powiększenia: {0}",
+    "Features.MiniMap.Description":  "Zawiera opcje ograniczające korzystanie z minimapy.",
+    "Features.MiniMap.DefaultZoomLevel.Description":  "Domyślny poziom powiększenia minimapy.",
+    "Features.MiniMap.AllowKeyBinding.Description":  "Wybierz, czy gracze mogą używać domyślnego przypisania \"V\" dla interfejsu współrzędnych.",
+    "Features.MiniMap.MinimumZoomLevel":  "Minimalny poziom powiększenia: {0}",
+    "Features.MiniMap.AllowCoordinatesHud.Description":  "Pozwala graczowi na włączenie współrzędnych w menu ustawień."
 }
