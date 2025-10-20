@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Vymazat body na cestě: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Určuje, zda hráči mohou připínat trasové body.",
+    "Features.Waypoints.ModMenu.TabName":  "Trasové body",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Vymažte uložené trasové body hráče, když se připojí k serveru.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Zakázat připnuté trasové body",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Vymazat trasové body při přihlášení",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Přepíná, zda mohou hráči vytvářet a uchovávat připnuté trasové body.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Vymazat trasové body při přihlášení: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Vymazat body na cestě po smrti",
+    "Features.ModMenu.Waypoints.TabName":  "Trasové body",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Vymažte uložené body cesty, když hráč zemře.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Vymažte hráčovy trasové body při každém přihlášení.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Vymaž hráčovy body na cestě, kdykoli zemře.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Trasové body",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Poskytuje možnosti pro omezení použití trasových bodů.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Zakázat připnuté trasové body: {0}",
+    "Features.Waypoints.Description":  "Poskytuje možnosti pro omezení použití trasových bodů."
+}

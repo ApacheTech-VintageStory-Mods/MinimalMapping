@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Þurrkaðu leiðarpunkta við dauða: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Ákvarðar hvort leikmenn geti fundið leiðarpunkta.",
+    "Features.Waypoints.ModMenu.TabName":  "Leiðarpunktar",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Hreinsaðu vistaða leiðarpunkta leikmanns þegar hann tengist netþjóninum.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Slökktu á festum leiðarpunktum",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Þurrkaðu leiðarpunkta við innskráningu",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Skiptu um hvort leikmenn geti búið til og haldið festum leiðarpunktum.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Þurrkaðu leiðarpunkta við innskráningu: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Þurrkaðu leiðarpunkta við dauðann",
+    "Features.ModMenu.Waypoints.TabName":  "Leiðarpunktar",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Hreinsaðu vistaða leiðarpunkta leikmanns þegar hann deyr.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Þurrkaðu leiðarpunkta leikmannsins í hvert skipti sem hann skráir sig inn.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Þurrkaðu leiðarpunkta leikmannsins þegar þeir deyja.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Leiðarpunktar",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Býður upp á valkosti til að takmarka notkun leiðarpunkta.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Slökktu á festum leiðarpunktum: {0}",
+    "Features.Waypoints.Description":  "Býður upp á valkosti til að takmarka notkun leiðarpunkta."
+}

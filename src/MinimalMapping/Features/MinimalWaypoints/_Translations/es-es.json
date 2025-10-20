@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Borrar puntos de ruta al morir: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Determina si los jugadores pueden fijar puntos de ruta.",
+    "Features.Waypoints.ModMenu.TabName":  "Puntos de referencia",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Borra los puntos de ruta guardados de un jugador cuando se une al servidor.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Deshabilitar puntos de referencia anclados",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Borrar puntos de referencia al iniciar sesión",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Alterna si los jugadores pueden crear y mantener puntos de ruta fijados.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Borrar puntos de referencia al iniciar sesión: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Borrar puntos de ruta al morir",
+    "Features.ModMenu.Waypoints.TabName":  "Puntos de referencia",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Borra los puntos de ruta guardados de un jugador cuando muere.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Borra los puntos de ruta del jugador cada vez que inicie sesión.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Borra los puntos de ruta del jugador cada vez que muera.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Puntos de referencia",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Proporciona opciones para restringir el uso de waypoints.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Desactivar puntos de referencia fijados: {0}",
+    "Features.Waypoints.Description":  "Proporciona opciones para restringir el uso de waypoints."
+}

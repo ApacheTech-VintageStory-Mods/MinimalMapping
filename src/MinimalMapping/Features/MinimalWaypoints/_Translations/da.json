@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Tør waypoints ved død: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Bestemmer, om spillere kan fastgøre waypoints.",
+    "Features.Waypoints.ModMenu.TabName":  "Waypoints",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Ryd en spillers gemte waypoints, når de tilslutter sig serveren.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Deaktiver fastgjorte waypoints",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Tør waypoints ved login",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Skift til, om spillere kan oprette og beholde fastgjorte waypoints.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Tør waypoints ved login: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Tør waypoints ved død",
+    "Features.ModMenu.Waypoints.TabName":  "Waypoints",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Ryd en spillers gemte waypoints, når de dør.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Slet spillerens waypoints, når de logger ind.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Tør spillerens waypoints, når de dør.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Waypoints",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Giver mulighed for at begrænse brugen af waypoints.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Deaktiver fastgjorte waypoints: {0}",
+    "Features.Waypoints.Description":  "Giver mulighed for at begrænse brugen af waypoints."
+}

@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "เช็ดจุดอ้างอิงเมื่อตาย: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "กําหนดว่าผู้เล่นสามารถปักหมุดจุดอ้างอิงได้หรือไม่",
+    "Features.Waypoints.ModMenu.TabName":  "จุดอ้างอิง",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "ล้างจุดอ้างอิงที่บันทึกไว้ของผู้เล่นเมื่อเข้าร่วมเซิร์ฟเวอร์",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "ปิดใช้งานจุดอ้างอิงที่ปักหมุด",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "ล้างจุดอ้างอิงเมื่อเข้าสู่ระบบ",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "สลับว่าผู้เล่นสามารถสร้างและเก็บจุดอ้างอิงที่ปักหมุดไว้ได้หรือไม่",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "ล้างจุดอ้างอิงเมื่อเข้าสู่ระบบ: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "เช็ดจุดอ้างอิงเมื่อตาย",
+    "Features.ModMenu.Waypoints.TabName":  "จุดอ้างอิง",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "ล้างจุดอ้างอิงที่บันทึกไว้ของผู้เล่นเมื่อพวกเขาตาย",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "ล้างจุดอ้างอิงของผู้เล่นทุกครั้งที่เข้าสู่ระบบ",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "ล้างจุดอ้างอิงของผู้เล่นทุกครั้งที่พวกเขาตาย",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "จุดอ้างอิง",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "มีตัวเลือกสําหรับการจํากัดการใช้จุดอ้างอิง",
+    "Features.Waypoints.DisablePinnedWaypoints":  "ปิดใช้งานจุดอ้างอิงที่ปักหมุด: {0}",
+    "Features.Waypoints.Description":  "มีตัวเลือกสําหรับการจํากัดการใช้จุดอ้างอิง"
+}

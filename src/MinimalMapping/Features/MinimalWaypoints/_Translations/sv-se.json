@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Torka waypoints vid dödsfall: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Avgör om spelare kan fästa waypoints.",
+    "Features.Waypoints.ModMenu.TabName":  "Waypoints (vägpunkter)",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Rensa en spelares sparade waypoints när de ansluter till servern.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Inaktivera fästa waypoints",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Torka waypoints vid inloggning",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Växla mellan om spelare kan skapa och behålla fästa waypoints.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Torka waypoints vid inloggning: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Torka waypoints vid dödsfall",
+    "Features.ModMenu.Waypoints.TabName":  "Waypoints (vägpunkter)",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Rensa en spelares sparade waypoints när de dör.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Rensa spelarens waypoints när de loggar in.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Radera spelarens waypoints när de dör.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Waypoints (vägpunkter)",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Ger alternativ för att begränsa användningen av waypoints.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Inaktivera fästa waypoints: {0}",
+    "Features.Waypoints.Description":  "Ger alternativ för att begränsa användningen av waypoints."
+}

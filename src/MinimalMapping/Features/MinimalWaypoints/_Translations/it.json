@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Cancella i waypoint alla morte: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Determina se i giocatori possono bloccare i waypoint.",
+    "Features.Waypoints.ModMenu.TabName":  "Punti di passaggio",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Cancella i waypoint salvati di un giocatore quando si unisce al server.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Disabilita i waypoint bloccati",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Cancella i waypoint all\u0027accesso",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Attiva o disattiva la possibilità per i giocatori di creare e mantenere i waypoint bloccati.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Cancella waypoint all\u0027accesso: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Cancella i waypoint alla morte",
+    "Features.ModMenu.Waypoints.TabName":  "Punti di passaggio",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Cancella i waypoint salvati di un giocatore quando muore.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Cancella i waypoint del giocatore ogni volta che effettua l\u0027accesso.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Cancella i waypoint del giocatore ogni volta che muore.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Punti di passaggio",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Fornisce opzioni per limitare l\u0027uso dei waypoint.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Disabilita waypoint bloccati: {0}",
+    "Features.Waypoints.Description":  "Fornisce opzioni per limitare l\u0027uso dei waypoint."
+}

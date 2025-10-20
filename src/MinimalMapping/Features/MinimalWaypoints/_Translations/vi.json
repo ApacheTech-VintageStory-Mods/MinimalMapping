@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Xóa điểm tham chiếu khi chết: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Xác định xem người chơi có thể ghim điểm tham chiếu hay không.",
+    "Features.Waypoints.ModMenu.TabName":  "Điểm tham chiếu",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Xóa các điểm tham chiếu đã lưu của người chơi khi họ tham gia máy chủ.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Tắt các điểm tham chiếu được ghim",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Xóa điểm tham chiếu khi đăng nhập",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Chuyển đổi xem người chơi có thể tạo và giữ các điểm tham chiếu đã ghim hay không.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Xóa điểm tham chiếu khi đăng nhập: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Xóa điểm tham chiếu khi chết",
+    "Features.ModMenu.Waypoints.TabName":  "Điểm tham chiếu",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Xóa các điểm tham chiếu đã lưu của người chơi khi họ chết.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Xóa các điểm tham chiếu của người chơi bất cứ khi nào họ đăng nhập.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Xóa các điểm tham chiếu của người chơi bất cứ khi nào họ chết.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Điểm tham chiếu",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Cung cấp các tùy chọn để hạn chế việc sử dụng điểm tham chiếu.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Tắt Điểm tham chiếu được ghim: {0}",
+    "Features.Waypoints.Description":  "Cung cấp các tùy chọn để hạn chế việc sử dụng điểm tham chiếu."
+}

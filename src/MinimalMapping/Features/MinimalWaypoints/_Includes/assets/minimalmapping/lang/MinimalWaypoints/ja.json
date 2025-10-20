@@ -1,7 +1,0 @@
-﻿{
-    "Features.Waypoints.Description":  "ウェイポイントの使用を制限するためのオプションを提供します。",
-    "Features.Waypoints.WipeWaypointsAtLogin":  "ログイン時にウェイポイントをワイプ:{0}",
-    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "プレイヤーがログインするたびにウェイポイントを消去します。",
-    "Features.Waypoints.AllowPinnedWaypoints.Description":  "プレイヤーがウェイポイントをピン留めできるかどうかを決定します。",
-    "Features.Waypoints.AllowPinnedWaypoints":  "ピン留めされたウェイポイントを許可する: {0}"
-}

@@ -1,0 +1,74 @@
+{
+  "Features.WorldMap.Description": "Provides options for restricting the usage of the world map.",
+
+  "Features.WorldMap.DisableWorldMapKeyBinding": "Disable World Map Key Binding: {0}",
+  "Features.WorldMap.DisableWorldMapKeyBinding.Description": "Toggle whether players can use the default 'M' key to open the world map.",
+
+  "Features.WorldMap.DisableMiniMapKeyBinding": "Disable Mini-Map Key Binding: {0}",
+  "Features.WorldMap.DisableMiniMapKeyBinding.Description": "Toggle whether players can use the 'F6' key to toggle the mini-map.",
+
+  "Features.WorldMap.WipeWorldMapAtLogin": "Wipe World Map At Login: {0}",
+  "Features.WorldMap.WipeWorldMapAtLogin.Description": "Clear the player's local world map data when they log in.",
+
+  "Features.WorldMap.WipeWorldMapOnDeath": "Wipe World Map On Death: {0}",
+  "Features.WorldMap.WipeWorldMapOnDeath.Description": "Clear the player's local world map data when they die.",
+
+  "Features.WorldMap.DisableCoordinatesHud": "Disable Co-ordinates HUD: {0}",
+  "Features.WorldMap.DisableCoordinatesHud.Description": "Toggle whether players can enable the on-screen coordinates HUD.",
+
+  "Features.WorldMap.DisableCoordinatesOnHover": "Disable Coordinates On Hover: {0}",
+  "Features.WorldMap.DisableCoordinatesOnHover.Description": "Disable coordinates when the player hovers over the mini-map.",
+
+  "Features.WorldMap.DisableMiniMapScrolling": "Disable Mini-Map Scrolling: {0}",
+  "Features.WorldMap.DisableMiniMapScrolling.Description": "Toggle whether players can click and drag to scroll the mini-map.",
+
+  "Features.WorldMap.MinimumZoomLevel": "Min Zoom Level: {0}",
+  "Features.WorldMap.MinimumZoomLevel.Description": "Set the minimum zoom level allowed for the mini-map.",
+
+  "Features.WorldMap.MaximumZoomLevel": "Max Zoom Level: {0}",
+  "Features.WorldMap.MaximumZoomLevel.Description": "Set the maximum zoom level allowed for the mini-map.",
+
+  "Features.WorldMap.DefaultZoomLevel": "Default Zoom Level: {0}",
+  "Features.WorldMap.DefaultZoomLevel.Description": "Set the default zoom level the mini-map opens with.",
+
+  "Features.WorldMap.EnsureMiniMapActive": "Force Mini-Map: {0}",
+  "Features.WorldMap.EnsureMiniMapActive.Description": "Force the mini-map to be visible by default for players.",
+
+  "Features.ModMenu.WorldMap.TabName": "World Map",
+  "Features.WorldMap.ModMenu.TabName": "World Map",
+  "Features.WorldMap.ModMenu.lblTitle.Text": "World Map",
+  "Features.WorldMap.ModMenu.lblDescription.Text": "Provides options for restricting the usage of the world map.",
+
+  "Features.WorldMap.ModMenu.lblDisableWorldMapKeyBinding.Text": "Disable World Map Key Binding",
+  "Features.WorldMap.ModMenu.lblDisableWorldMapKeyBinding.HoverText": "Toggle whether players can use the default 'M' key to open the world map.",
+
+  "Features.WorldMap.ModMenu.lblDisableMiniMapKeyBinding.Text": "Disable Mini-Map Key Binding",
+  "Features.WorldMap.ModMenu.lblDisableMiniMapKeyBinding.HoverText": "Toggle whether players can use the 'F6' key to toggle the mini-map.",
+
+  "Features.WorldMap.ModMenu.lblWipeWorldMapAtLogin.Text": "Wipe World Map At Login",
+  "Features.WorldMap.ModMenu.lblWipeWorldMapAtLogin.HoverText": "Clear the player's local world map data when they log in.",
+
+  "Features.WorldMap.ModMenu.lblWipeWorldMapOnDeath.Text": "Wipe World Map On Death",
+  "Features.WorldMap.ModMenu.lblWipeWorldMapOnDeath.HoverText": "Clear the player's local world map data when they die.",
+
+  "Features.WorldMap.ModMenu.lblDisableCoordinatesHud.Text": "Disable Coordinates HUD",
+  "Features.WorldMap.ModMenu.lblDisableCoordinatesHud.HoverText": "Toggle whether players can enable the on-screen coordinates HUD in their settings.",
+
+  "Features.WorldMap.ModMenu.lblDisableCoordinatesOnHover.Text": "Disable Coordinates On Hover",
+  "Features.WorldMap.ModMenu.lblDisableCoordinatesOnHover.HoverText": "Disable coordinates when the player hovers over the mini-map.",
+
+  "Features.WorldMap.ModMenu.lblDisableMiniMapScrolling.Text": "Disable Mini-Map Scrolling",
+  "Features.WorldMap.ModMenu.lblDisableMiniMapScrolling.HoverText": "Toggle whether players can click and drag to scroll the mini-map.",
+
+  "Features.WorldMap.ModMenu.lblMinimumZoomLevel.Text": "Minimum Zoom Level",
+  "Features.WorldMap.ModMenu.lblMinimumZoomLevel.HoverText": "Set the minimum zoom level allowed for the mini-map.",
+
+  "Features.WorldMap.ModMenu.lblMaximumZoomLevel.Text": "Maximum Zoom Level",
+  "Features.WorldMap.ModMenu.lblMaximumZoomLevel.HoverText": "Set the maximum zoom level allowed for the mini-map.",
+
+  "Features.WorldMap.ModMenu.lblDefaultZoomLevel.Text": "Default Zoom Level",
+  "Features.WorldMap.ModMenu.lblDefaultZoomLevel.HoverText": "Set the default zoom level the mini-map opens with.",
+
+  "Features.WorldMap.ModMenu.lblEnsureMiniMapActive.Text": "Force Mini-Map Active",
+  "Features.WorldMap.ModMenu.lblEnsureMiniMapActive.HoverText": "Force the mini-map to be visible by default for players."
+}

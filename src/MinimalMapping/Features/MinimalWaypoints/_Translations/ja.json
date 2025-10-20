@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "死亡時にウェイポイントを消去: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "プレイヤーがウェイポイントを固定できるかどうかを決定します。",
+    "Features.Waypoints.ModMenu.TabName":  "ウェイポイント",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "プレイヤーがサーバーに参加したときに、保存したウェイポイントをクリアします。",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "固定されたウェイポイントを無効にする",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "ログイン時にウェイポイントを消去",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "プレイヤーが固定されたウェイポイントを作成して保持できるかどうかを切り替えます。",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "ログイン時にウェイポイントを消去する: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "死亡時にウェイポイントを消去する",
+    "Features.ModMenu.Waypoints.TabName":  "ウェイポイント",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "プレイヤーが死亡したときに保存したウェイポイントをクリアする。",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "プレイヤーがログインするたびにウェイポイントを消去します。",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "プレイヤーが死ぬたびにウェイポイントを消す。",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "ウェイポイント",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "ウェイポイントの使用を制限するためのオプションを提供します。",
+    "Features.Waypoints.DisablePinnedWaypoints":  "固定されたウェイポイントの無効化: {0}",
+    "Features.Waypoints.Description":  "ウェイポイントの使用を制限するためのオプションを提供します。"
+}

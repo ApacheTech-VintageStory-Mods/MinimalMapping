@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Ölüm Anında Yol Noktalarını Sil: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Oyuncuların ara noktaları sabitleyip sabitleyemeyeceğini belirler.",
+    "Features.Waypoints.ModMenu.TabName":  "Ara Noktalar",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Bir oyuncunun sunucuya katıldığında kayıtlı ara noktalarını temizleyin.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Sabitlenmiş Yol Noktalarını Devre Dışı Bırak",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Girişte Yol Noktalarını Sil",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Oyuncuların sabitlenmiş ara noktalar oluşturup oluşturamayacağını ve tutup tutamayacağını değiştirin.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Girişte Yol Noktalarını Sil: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Ölüm Anında Yol Noktalarını Sil",
+    "Features.ModMenu.Waypoints.TabName":  "Ara Noktalar",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Bir oyuncu öldüğünde kayıtlı ara noktalarını temizle.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Oyuncunun ara noktalarını her giriş yaptığında silin.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Oyuncu öldüğünde ara noktalarını silin.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Ara Noktalar",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Ara noktaların kullanımını kısıtlamak için seçenekler sunar.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Sabitlenmiş Yol Noktalarını Devre Dışı Bırak: {0}",
+    "Features.Waypoints.Description":  "Ara noktaların kullanımını kısıtlamak için seçenekler sunar."
+}

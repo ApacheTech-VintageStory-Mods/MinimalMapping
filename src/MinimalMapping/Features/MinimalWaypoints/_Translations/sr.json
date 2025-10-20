@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Obrišite putne tačke na smrt: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Određuje da li igrači mogu da zakače putne tačke.",
+    "Features.Waypoints.ModMenu.TabName":  "Putne tačke",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Obrišite sačuvane putne tačke igrača kada se pridruže serveru.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Onemogućavanje zakačenih putnih tačaka",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Obrišite putne tačke prilikom prijavljivanja",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Uključite da li igrači mogu kreirati i zadržati zakačene putne tačke.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Obrišite putne tačke prilikom prijavljivanja: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Obrišite putne tačke na smrt",
+    "Features.ModMenu.Waypoints.TabName":  "Putne tačke",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Obrišite sačuvane putne tačke igrača kada umru.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Obrišite putne tačke igrača kad god se prijave.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Obrišite igračeve putne tačke kad god umru.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Putne tačke",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Pruža opcije za ograničavanje korišćenja putnih tačaka.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Onemogućavanje zakačenih putnih tačaka: {0}",
+    "Features.Waypoints.Description":  "Pruža opcije za ograničavanje korišćenja putnih tačaka."
+}

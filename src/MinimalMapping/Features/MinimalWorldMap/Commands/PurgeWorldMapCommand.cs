@@ -1,21 +1,14 @@
-﻿using ApacheTech.Common.BrighterSlim;
-using ApacheTech.Common.Extensions.Harmony;
-using Gantry.Core;
-using Gantry.Core.Annotation;
-using Gantry.Services.Brighter.Abstractions;
-using Gantry.Services.Brighter.Filters;
-using System.Collections.Generic;
-using System.Linq;
-using Vintagestory.API.MathTools;
+﻿using Gantry.Services.Brighter.Filters;
 
-namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalWorldMap.Commands;
+namespace MinimalMapping.Features.MinimalWorldMap.Commands;
 
 [ClientSide]
 public class PurgeWorldMapCommand : CommandBase
 {
     [ClientSide]
-    public class PurgeWorldMapHandler(WorldMapManager worldMapManager) : RequestHandler<PurgeWorldMapCommand>
+    public class PurgeWorldMapHandler(ICoreGantryAPI gantry, WorldMapManager worldMapManager) : RequestHandler<PurgeWorldMapCommand>
     {
+        private readonly ICoreGantryAPI _gantry = gantry;
         private readonly WorldMapManager _worldMapManager = worldMapManager;
 
         [HandledOnClient]
@@ -49,7 +42,7 @@ public class PurgeWorldMapCommand : CommandBase
 
         private static bool TryPugeWorldMap(ChunkMapLayer chunkLayer)
         {
-            var curVisibleChunks = chunkLayer.GetField<HashSet<Vec2i>>("curVisibleChunks");
+            var curVisibleChunks = chunkLayer.GetField<HashSet<FastVec2i>>("curVisibleChunks");
             if (curVisibleChunks is null) return false;
             curVisibleChunks.Clear();
             chunkLayer.SetField("curVisibleChunks", curVisibleChunks);
@@ -62,18 +55,25 @@ public class PurgeWorldMapCommand : CommandBase
 
         private static bool TryPurgeMapDatabase(PurgeWorldMapCommand command, ChunkMapLayer chunkLayer)
         {
-            var sapi = ApiEx.Server;
-            var mapdb = new MapDB(sapi.World.Logger);
-            string errorMessage = string.Empty;
-            string mapdbfilepath = chunkLayer.getMapDbFilePath();
-            mapdb.OpenOrCreate(mapdbfilepath, ref errorMessage, true, true, false);
-            if (!string.IsNullOrEmpty(errorMessage))
+            var mapDb = chunkLayer.GetField<MapDB>("mapdb");
+            if (mapDb is null)
             {
-                command.ErrorMessages.Add($"Cannot open `{mapdbfilepath}`, possibly corrupted. Please fix manually or delete this file to continue playing");
-                command.ErrorMessages.Add(errorMessage);
+                command.Success = false;
+                command.ErrorMessages.Add("Could not get map database from chunk layer.");
                 return false;
             }
-            mapdb.Purge();
+
+            try
+            {
+                mapDb.Purge();
+                mapDb.Vacuum();
+            }
+            catch (Exception ex)
+            {
+                command.Success = false;
+                command.ErrorMessages.Add($"Exception purging map database: {ex}");
+                return false;
+            }
             return true;
         }
     }

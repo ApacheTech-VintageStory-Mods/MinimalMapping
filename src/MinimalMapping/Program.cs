@@ -1,7 +1,3 @@
-using Gantry.Services.EasyX.Hosting;
-using JetBrains.Annotations;
+namespace MinimalMapping;
 
-namespace ApacheTech.VintageMods.MinimalMapping;
-
-[UsedImplicitly(ImplicitUseTargetFlags.WithMembers)]
-internal sealed class Program() : EasyXHost("minimalmapping");
+internal sealed class Program() : G.ExHost<Program>("minimalmapping");

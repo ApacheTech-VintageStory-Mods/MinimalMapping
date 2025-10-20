@@ -1,15 +1,18 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-	<PropertyGroup>
-		<Version>2.3.3.0</Version>
-		<RootNamespace>ApacheTech.VintageMods.$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+	<Import Project="..\..\..\..\..\Gantry\shared\Gantry.Shared\Gantry.Shared.projitems" Label="Shared" />
+
+	<PropertyGroup Label="Assembly Versioning">
+		<Version>3.0.0.0</Version>
+		<ModId>minimalmapping</ModId>
+		<ModName>Minimal Mapping</ModName>
+		<PackageMod>true</PackageMod>
 	</PropertyGroup>
 
 	<ItemGroup>
-		<None Include="..\..\docs\LICENCE.md" Link="_Includes\LICENCE.md" />
-		<None Include="..\..\docs\README.md" Link="_Includes\README.md" />
+		<None Remove="$(ProjectDir)\**\.gitkeep" />
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\..\..\..\..\Gantry\src\Gantry\Gantry.csproj" />
+	  <Content Include="_Translations\en.json" />
 	</ItemGroup>
 </Project>

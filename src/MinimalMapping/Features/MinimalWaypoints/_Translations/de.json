@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Wegpunkte beim Tod löschen: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Bestimmt, ob Spieler Wegpunkte anheften können.",
+    "Features.Waypoints.ModMenu.TabName":  "Wegpunkte",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Lösche die gespeicherten Wegpunkte eines Spielers, wenn er dem Server beitritt.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Angeheftete Wegpunkte deaktivieren",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Wegpunkte beim Einloggen löschen",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Schalte um, ob Spieler angeheftete Wegpunkte erstellen und behalten können.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Wegpunkte beim Einloggen löschen: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Wegpunkte beim Tod löschen",
+    "Features.ModMenu.Waypoints.TabName":  "Wegpunkte",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Lösche die gespeicherten Wegpunkte eines Spielers, wenn er stirbt.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Löschen Sie die Wegpunkte des Spielers, wenn er sich einloggt.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Lösche die Wegpunkte des Spielers, wenn er stirbt.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Wegpunkte",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Bietet Optionen zum Einschränken der Verwendung von Wegpunkten.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Angeheftete Wegpunkte deaktivieren: {0}",
+    "Features.Waypoints.Description":  "Bietet Optionen zum Einschränken der Verwendung von Wegpunkten."
+}

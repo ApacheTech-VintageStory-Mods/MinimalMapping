@@ -1,7 +1,0 @@
-﻿{
-    "Features.Waypoints.Description":  "Proporciona opciones para restringir el uso de puntos de referencia.",
-    "Features.Waypoints.WipeWaypointsAtLogin":  "Borrar waypoints al iniciar sesión: {0}",
-    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Borra los puntos de ruta del jugador cada vez que inicie sesión.",
-    "Features.Waypoints.AllowPinnedWaypoints.Description":  "Establece si los jugadores pueden fijar puntos de ruta.",
-    "Features.Waypoints.AllowPinnedWaypoints":  "Permitir waypoints anclados: {0}"
-}

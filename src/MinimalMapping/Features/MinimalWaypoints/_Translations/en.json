@@ -1,0 +1,27 @@
+{
+  "Features.Waypoints.Description": "Provides options for restricting the usage of waypoints.",
+
+  "Features.Waypoints.DisablePinnedWaypoints": "Disable Pinned Waypoints: {0}",
+  "Features.Waypoints.DisablePinnedWaypoints.Description": "Determines whether players can pin waypoints.",
+
+  "Features.Waypoints.WipeWaypointsAtLogin": "Wipe Waypoints At Login: {0}",
+  "Features.Waypoints.WipeWaypointsAtLogin.Description": "Wipe the player's waypoints whenever they log in.",
+
+  "Features.Waypoints.WipeWaypointsOnDeath": "Wipe Waypoints On Death: {0}",
+  "Features.Waypoints.WipeWaypointsOnDeath.Description": "Wipe the player's waypoints whenever they die.",
+
+  "Features.Waypoints.ModMenu.TabName": "Waypoints",
+  "Features.ModMenu.Waypoints.TabName": "Waypoints",
+
+  "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text": "Disable Pinned Waypoints",
+  "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText": "Toggle whether players can create and keep pinned waypoints.",
+
+  "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text": "Wipe Waypoints At Login",
+  "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText": "Clear a player's saved waypoints when they join the server.",
+
+  "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text": "Wipe Waypoints On Death",
+  "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText": "Clear a player's saved waypoints when they die.",
+
+  "Features.Waypoints.ModMenu.lblTitle.Text": "Waypoints",
+  "Features.Waypoints.ModMenu.lblDescription.Text": "Provides options for restricting the usage of waypoints."
+}

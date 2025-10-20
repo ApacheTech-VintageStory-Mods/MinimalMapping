@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Waypoints wissen bij overlijden: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Bepaalt of spelers waypoints kunnen vastzetten.",
+    "Features.Waypoints.ModMenu.TabName":  "Waypunten",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Wis de opgeslagen waypoints van een speler wanneer deze lid wordt van de server.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Vastgezette waypoints uitschakelen",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Veeg waypoints bij het inloggen",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Schakel of spelers vastgezette waypoints kunnen maken en behouden.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Waypoints wissen bij inloggen: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Veeg waypoints bij de dood",
+    "Features.ModMenu.Waypoints.TabName":  "Waypunten",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Wis de opgeslagen waypoints van een speler als ze sterven.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Wis de waypoints van de speler wanneer ze inloggen.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Wis de waypoints van de speler wanneer ze sterven.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Waypunten",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Biedt opties voor het beperken van het gebruik van waypoints.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Vastgezette waypoints uitschakelen: {0}",
+    "Features.Waypoints.Description":  "Biedt opties voor het beperken van het gebruik van waypoints."
+}

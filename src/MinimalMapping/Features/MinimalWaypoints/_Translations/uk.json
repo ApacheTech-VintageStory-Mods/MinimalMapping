@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Стирання маршрутних точок після смерті: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Визначає, чи можуть гравці закріплювати маршрутні точки.",
+    "Features.Waypoints.ModMenu.TabName":  "Маршрутні точки",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Очистіть збережені маршрутні точки гравця, коли він приєднується до сервера.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Вимкніть закріплені маршрутні точки",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Стирання маршрутних точок під час входу в систему",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Вимкніть, чи можуть гравці створювати та зберігати закріплені маршрутні точки.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Стирання маршрутних точок при вході в систему: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Зітріть маршрутні точки після смерті",
+    "Features.ModMenu.Waypoints.TabName":  "Маршрутні точки",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Очистіть збережені маршрутні точки гравця, коли він помирає.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Стирайте маршрутні точки гравця щоразу, коли він входить у систему.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Стирайте маршрутні точки гравця щоразу, коли він помирає.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Маршрутні точки",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Надає опції для обмеження використання маршрутних точок.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Вимкніть закріплені маршрутні точки: {0}",
+    "Features.Waypoints.Description":  "Надає опції для обмеження використання маршрутних точок."
+}

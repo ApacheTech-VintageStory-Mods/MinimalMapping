@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Effacer les points de repère à la mort : {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Détermine si les joueurs peuvent épingler des points de cheminement.",
+    "Features.Waypoints.ModMenu.TabName":  "Points de cheminement",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Effacez les points de repère sauvegardés d’un joueur lorsqu’il rejoint le serveur.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Désactiver les points de cheminement épinglés",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Effacer les points de cheminement à la connexion",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Indiquez si les joueurs peuvent créer et conserver des points de repère épinglés.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Effacer les points de cheminement à la connexion : {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Effacer les points de repère à la mort",
+    "Features.ModMenu.Waypoints.TabName":  "Points de cheminement",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Effacez les points de passage sauvegardés d’un joueur lorsqu’il meurt.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Effacez les points de passage du joueur chaque fois qu’il se connecte.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Efface les points de passage du joueur à chaque fois qu’il meurt.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Points de cheminement",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Fournit des options permettant de restreindre l’utilisation des points de cheminement.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Désactiver les points de cheminement épinglés : {0}",
+    "Features.Waypoints.Description":  "Fournit des options permettant de restreindre l’utilisation des points de cheminement."
+}

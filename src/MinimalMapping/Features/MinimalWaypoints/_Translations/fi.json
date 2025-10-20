@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Pyyhi reittipisteet kuoleman yhteydessä: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Määrittää, voivatko pelaajat kiinnittää reittipisteitä.",
+    "Features.Waypoints.ModMenu.TabName":  "Reittipisteet",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Tyhjennä pelaajan tallennetut reittipisteet, kun hän liittyy palvelimeen.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Poista kiinnitetyt reittipisteet käytöstä",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Pyyhi reittipisteet kirjautumisen yhteydessä",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Valitse, voivatko pelaajat luoda ja säilyttää kiinnitettyjä reittipisteitä.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Pyyhi reittipisteet kirjautumisen yhteydessä: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Pyyhi reittipisteet kuoleman yhteydessä",
+    "Features.ModMenu.Waypoints.TabName":  "Reittipisteet",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Tyhjennä pelaajan tallennetut reittipisteet, kun hän kuolee.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Pyyhi pelaajan reittipisteet aina, kun hän kirjautuu sisään.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Pyyhi pelaajan reittipisteet aina, kun hän kuolee.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Reittipisteet",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Tarjoaa vaihtoehtoja reittipisteiden käytön rajoittamiseen.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Poista kiinnitetyt reittipisteet käytöstä: {0}",
+    "Features.Waypoints.Description":  "Tarjoaa vaihtoehtoja reittipisteiden käytön rajoittamiseen."
+}

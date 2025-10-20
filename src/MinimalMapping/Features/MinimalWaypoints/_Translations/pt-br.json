@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Limpe os pontos de passagem ao morrer: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Determina se os jogadores podem fixar pontos de senda.",
+    "Features.Waypoints.ModMenu.TabName":  "Pontos de passagem",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Limpe os waypoints salvos de um jogador quando ele entrar no servidor.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Desativar pontos de passagem fixados",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Limpe os pontos de passagem no login",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Alterne se os jogadores podem criar e manter pontos de referência fixados.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Limpe os pontos de passagem no login: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Limpe os pontos de passagem ao morrer",
+    "Features.ModMenu.Waypoints.TabName":  "Pontos de passagem",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Limpe os waypoints salvos de um jogador quando ele morrer.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Limpe os pontos de passagem do jogador sempre que ele fizer login.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Limpe os waypoints do jogador sempre que ele morrer.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Pontos de passagem",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Fornece opções para restringir o uso de waypoints.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Desativar waypoints fixados: {0}",
+    "Features.Waypoints.Description":  "Fornece opções para restringir o uso de waypoints."
+}

@@ -1,7 +1,0 @@
-﻿{
-    "Features.Waypoints.Description":  "Udostępnia opcje ograniczania korzystania z punktów trasy.",
-    "Features.Waypoints.WipeWaypointsAtLogin":  "Wyczyść punkty trasy podczas logowania: {0}",
-    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Wyczyść punkty trasy gracza za każdym razem, gdy się loguje.",
-    "Features.Waypoints.AllowPinnedWaypoints.Description":  "Określa, czy gracze mogą przypinać punkty trasy.",
-    "Features.Waypoints.AllowPinnedWaypoints":  "Zezwalaj na przypięte punkty trasy: {0}"
-}

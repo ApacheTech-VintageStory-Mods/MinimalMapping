@@ -1,7 +1,0 @@
-﻿{
-    "Features.Waypoints.Description":  "Poskytuje možnosti obmedzenia používania bodov trasy.",
-    "Features.Waypoints.WipeWaypointsAtLogin":  "Vymazanie trasových bodov pri prihlásení: {0}",
-    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Vymažte trasové body hráča vždy, keď sa prihlási.",
-    "Features.Waypoints.AllowPinnedWaypoints.Description":  "Určuje, či hráči môžu pripínať body trasy.",
-    "Features.Waypoints.AllowPinnedWaypoints":  "Povolenie pripnutých bodov trasy: {0}"
-}

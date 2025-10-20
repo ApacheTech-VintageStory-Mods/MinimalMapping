@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Törölje le az útpontokat halálkor: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Meghatározza, hogy a játékosok rögzíthetnek-e útpontokat.",
+    "Features.Waypoints.ModMenu.TabName":  "Útpontok",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Törölje a játékos mentett útpontjait, amikor csatlakozik a szerverhez.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Rögzített útpontok letiltása",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Törölje az útpontokat bejelentkezéskor",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Kapcsolja be, hogy a játékosok létrehozhatnak-e és megtarthatnak-e rögzített útpontokat.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Útpontok törlése bejelentkezéskor: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Törölje le az útpontokat halálkor",
+    "Features.ModMenu.Waypoints.TabName":  "Útpontok",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Törölje a játékos mentett útpontjait, amikor meghal.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Törölje a játékos útpontjait, amikor bejelentkezik.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Törölje a játékos útpontjait, amikor meghal.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Útpontok",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Lehetőséget biztosít az útpontok használatának korlátozására.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Rögzített útpontok letiltása: {0}",
+    "Features.Waypoints.Description":  "Lehetőséget biztosít az útpontok használatának korlátozására."
+}

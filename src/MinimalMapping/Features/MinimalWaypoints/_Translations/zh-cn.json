@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "死亡时擦除路径点： {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "确定玩家是否可以固定航路点。",
+    "Features.Waypoints.ModMenu.TabName":  "航点",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "当玩家加入服务器时清除玩家保存的路径点。",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "禁用固定航点",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "登录时擦除航点",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "切换玩家是否可以创建和保留固定的航路点。",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "登录时擦除航点： {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "死亡时擦除航点",
+    "Features.ModMenu.Waypoints.TabName":  "航点",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "在玩家死亡时清除玩家保存的路径点。",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "每当玩家登录时擦除他们的路径点。",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "每当玩家死亡时，都会擦除玩家的路径点。",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "航点",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "提供限制航点使用的选项。",
+    "Features.Waypoints.DisablePinnedWaypoints":  "禁用固定航点： {0}",
+    "Features.Waypoints.Description":  "提供限制航点使用的选项。"
+}

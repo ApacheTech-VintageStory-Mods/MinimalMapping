@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Tørk veipunkter ved død: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Avgjør om spillere kan feste veipunkter.",
+    "Features.Waypoints.ModMenu.TabName":  "Veipunkter",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Fjern en spillers lagrede veipunkter når de blir med på serveren.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Deaktiver festede veipunkter",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Tørk veipunkter ved pålogging",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Veksle mellom om spillere kan opprette og beholde festede veipunkter.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Tørk veipunkter ved pålogging: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Tørk veipunkter ved død",
+    "Features.ModMenu.Waypoints.TabName":  "Veipunkter",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Fjern en spillers lagrede veipunkter når de dør.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Tørk spillerens veipunkter når de logger på.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Tørk av spillerens veipunkter når de dør.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Veipunkter",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Gir alternativer for å begrense bruken av veipunkter.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Deaktiver festede veipunkter: {0}",
+    "Features.Waypoints.Description":  "Gir alternativer for å begrense bruken av veipunkter."
+}

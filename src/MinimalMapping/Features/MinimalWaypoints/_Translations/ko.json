@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "사망 시 웨이포인트 지우기: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "플레이어가 웨이포인트를 고정할 수 있는지 여부를 결정합니다.",
+    "Features.Waypoints.ModMenu.TabName":  "웨이포인트",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "플레이어가 서버에 가입할 때 저장된 웨이포인트를 지웁니다.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "고정된 웨이포인트 비활성화",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "로그인 시 웨이포인트 지우기",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "플레이어가 고정된 웨이포인트를 만들고 유지할 수 있는지 여부를 전환합니다.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "로그인 시 웨이포인트 지우기: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "사망 시 웨이포인트 지우기",
+    "Features.ModMenu.Waypoints.TabName":  "웨이포인트",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "플레이어가 죽을 때 저장된 웨이포인트를 지웁니다.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "플레이어가 로그인할 때마다 웨이포인트를 지웁니다.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "플레이어가 죽을 때마다 웨이포인트를 지웁니다.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "웨이포인트",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "웨이포인트 사용을 제한하는 옵션을 제공합니다.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "고정된 웨이포인트 비활성화: {0}",
+    "Features.Waypoints.Description":  "웨이포인트 사용을 제한하는 옵션을 제공합니다."
+}

@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Wyczyść punkty trasy po śmierci: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Określa, czy gracze mogą przypinać punkty trasy.",
+    "Features.Waypoints.ModMenu.TabName":  "Punkty trasy",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Wyczyść zapisane punkty trasy gracza, gdy dołączy on do serwera.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Wyłącz przypięte punkty trasy",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Wyczyść punkty trasy podczas logowania",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Przełącza, czy gracze mogą tworzyć i zachowywać przypięte punkty trasy.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Wyczyść punkty trasy podczas logowania: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Wyczyść punkty trasy po śmierci",
+    "Features.ModMenu.Waypoints.TabName":  "Punkty trasy",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Wyczyść zapisane punkty trasy gracza, gdy zginie.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Wyczyść punkty trasy gracza za każdym razem, gdy się loguje.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Wyczyść punkty orientacyjne gracza za każdym razem, gdy zginie.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Punkty trasy",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Udostępnia opcje ograniczania korzystania z punktów trasy.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Wyłącz przypięte punkty trasy: {0}",
+    "Features.Waypoints.Description":  "Udostępnia opcje ograniczania korzystania z punktów trasy."
+}

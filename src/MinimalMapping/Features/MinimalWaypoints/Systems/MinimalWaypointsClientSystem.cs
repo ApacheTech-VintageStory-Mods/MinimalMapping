@@ -1,6 +1,14 @@
-﻿using ApacheTech.VintageMods.MinimalMapping.Features.MinimalWaypoints.Settings;
-using Gantry.Services.EasyX.Abstractions;
+﻿using MinimalMapping.Features.MinimalWaypoints.Settings;
+using MinimalMapping.Features.ModMenu.Extensions;
 
-namespace ApacheTech.VintageMods.MinimalMapping.Features.MinimalWaypoints.Systems;
+namespace MinimalMapping.Features.MinimalWaypoints.Systems;
 
-internal class MinimalWaypointsClientSystem : EasyXClientSystemBase<MinimalWaypointsClientSettings>;
+internal class MinimalWaypointsClientSystem
+    : EasyXClientSystemBase<MinimalWaypointsClientSystem, MinimalWaypointsClientSettings, MinimalWaypointsServerSettings>
+{
+    public override void StartClientSide(ICoreClientAPI api)
+    {
+        api.AddSettingsTab(() => new MinimalWaypointsGuiTab(Core, ServerSettings));
+        base.StartClientSide(api);
+    }
+}

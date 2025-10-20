@@ -18,6 +18,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalMapping", "src\Minim
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{2212C354-6754-4C64-AF91-6C1C4E7B6EDE}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		src\Directory.Build.props = src\Directory.Build.props
 		src\Directory.Build.targets = src\Directory.Build.targets
 	EndProjectSection
@@ -44,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerLauncher", "..\..\..\
 		{57D6ED37-CF40-4F13-987A-9464E247C4D4} = {57D6ED37-CF40-4F13-987A-9464E247C4D4}
 		{C031B24C-F2B2-425B-86A2-3938ED9D92EE} = {C031B24C-F2B2-425B-86A2-3938ED9D92EE}
 	EndProjectSection
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Gantry.Shared", "..\..\..\Gantry\shared\Gantry.Shared\Gantry.Shared.shproj", "{0EA708E9-9E9D-4FE0-855C-DF89F48CBB2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -104,8 +107,13 @@ Global
 		{EE0C83B3-C81C-41A8-B05E-25C3EF544BF1} = {8F124A7D-F38D-42F4-8688-3E395E104E86}
 		{F1257E86-6A49-4ADF-9832-A3702332E41A} = {8F124A7D-F38D-42F4-8688-3E395E104E86}
 		{B5B15742-8D36-4010-8D1D-A42098389BCA} = {8F124A7D-F38D-42F4-8688-3E395E104E86}
+		{0EA708E9-9E9D-4FE0-855C-DF89F48CBB2F} = {707580FB-E9D6-47CB-828D-E7667FC612EF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4C5B0502-7DC7-4B5C-833B-FDC5488C1009}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\..\..\Gantry\shared\Gantry.Shared\Gantry.Shared.projitems*{0ea708e9-9e9d-4fe0-855c-df89f48cbb2f}*SharedItemsImports = 13
+		..\..\..\Gantry\shared\Gantry.Shared\Gantry.Shared.projitems*{57d6ed37-cf40-4f13-987a-9464e247c4d4}*SharedItemsImports = 5
 	EndGlobalSection
 EndGlobal

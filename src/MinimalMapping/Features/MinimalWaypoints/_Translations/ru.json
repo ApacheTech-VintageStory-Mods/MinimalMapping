@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "Стирание путевых точек после смерти: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "Определяет, могут ли игроки закреплять путевые точки.",
+    "Features.Waypoints.ModMenu.TabName":  "Путевые точки",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "Очистите сохраненные путевые точки игрока, когда он присоединяется к серверу.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "Отключение закрепленных путевых точек",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "Стереть путевые точки при входе в систему",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "Укажите, могут ли игроки создавать и сохранять закрепленные путевые точки.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "Стереть путевые точки при входе в систему: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "Стереть путевые точки после смерти",
+    "Features.ModMenu.Waypoints.TabName":  "Путевые точки",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "Очистите сохраненные путевые точки игрока, когда он умирает.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Стирайте путевые точки игрока всякий раз, когда он входит в игру.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "Стирайте путевые точки игрока, когда он умирает.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "Путевые точки",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "Предоставляет параметры для ограничения использования путевых точек.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "Отключение закрепленных путевых точек: {0}",
+    "Features.Waypoints.Description":  "Предоставляет параметры для ограничения использования путевых точек."
+}

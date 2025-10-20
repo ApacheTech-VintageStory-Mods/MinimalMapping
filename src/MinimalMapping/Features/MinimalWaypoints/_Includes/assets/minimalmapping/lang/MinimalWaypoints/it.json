@@ -1,7 +1,0 @@
-﻿{
-    "Features.Waypoints.Description":  "Fornisce opzioni per limitare l\u0027uso dei waypoint.",
-    "Features.Waypoints.WipeWaypointsAtLogin":  "Cancella waypoint all\u0027accesso: {0}",
-    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Cancella i waypoint del giocatore ogni volta che effettua l\u0027accesso.",
-    "Features.Waypoints.AllowPinnedWaypoints.Description":  "Determina se i giocatori possono bloccare i waypoint.",
-    "Features.Waypoints.AllowPinnedWaypoints":  "Consenti waypoint bloccati: {0}"
-}

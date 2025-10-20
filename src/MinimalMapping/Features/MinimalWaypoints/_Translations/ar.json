@@ -1,0 +1,19 @@
+﻿{
+    "Features.Waypoints.WipeWaypointsOnDeath":  "امسح نقاط الطريق عند الموت: {0}",
+    "Features.Waypoints.DisablePinnedWaypoints.Description":  "يحدد ما إذا كان بإمكان اللاعبين تثبيت نقاط الطريق.",
+    "Features.Waypoints.ModMenu.TabName":  "نقاط الطريق",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.HoverText":  "امسح نقاط الطريق المحفوظة للاعب عند انضمامه إلى الخادم.",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.Text":  "تعطيل إحداثيات الطريق المثبتة",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsAtLogin.Text":  "مسح نقاط الطريق عند تسجيل الدخول",
+    "Features.Waypoints.ModMenu.lblDisablePinnedWaypoints.HoverText":  "قم بتبديل ما إذا كان بإمكان اللاعبين إنشاء نقاط طريق مثبتة والاحتفاظ بها.",
+    "Features.Waypoints.WipeWaypointsAtLogin":  "امسح نقاط الطريق عند تسجيل الدخول: {0}",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.Text":  "امسح نقاط الطريق عند الموت",
+    "Features.ModMenu.Waypoints.TabName":  "نقاط الطريق",
+    "Features.Waypoints.ModMenu.lblWipeWaypointsOnDeath.HoverText":  "امسح نقاط الطريق المحفوظة للاعب عند وفاته.",
+    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "امسح نقاط الطريق الخاصة باللاعب كلما قام بتسجيل الدخول.",
+    "Features.Waypoints.WipeWaypointsOnDeath.Description":  "امسح نقاط طريق اللاعب كلما ماتوا.",
+    "Features.Waypoints.ModMenu.lblTitle.Text":  "نقاط الطريق",
+    "Features.Waypoints.ModMenu.lblDescription.Text":  "يوفر خيارات لتقييد استخدام إحداث الطريق.",
+    "Features.Waypoints.DisablePinnedWaypoints":  "تعطيل نقاط الطريق المثبتة: {0}",
+    "Features.Waypoints.Description":  "يوفر خيارات لتقييد استخدام إحداث الطريق."
+}

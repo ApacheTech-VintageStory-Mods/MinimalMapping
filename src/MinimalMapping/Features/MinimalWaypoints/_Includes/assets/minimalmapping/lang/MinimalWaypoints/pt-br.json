@@ -1,7 +1,0 @@
-﻿{
-    "Features.Waypoints.Description":  "Fornece opções para restringir o uso de waypoints.",
-    "Features.Waypoints.WipeWaypointsAtLogin":  "Limpe os pontos de passagem no login: {0}",
-    "Features.Waypoints.WipeWaypointsAtLogin.Description":  "Limpe os pontos de passagem do jogador sempre que ele fizer login.",
-    "Features.Waypoints.AllowPinnedWaypoints.Description":  "Determina se os jogadores podem fixar pontos de senda.",
-    "Features.Waypoints.AllowPinnedWaypoints":  "Permitir waypoints fixados: {0}"
-}
